@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cdn-cgi/l/email-protection
+
+Sitemap: https://closcaverda.org/sitemap.xml
