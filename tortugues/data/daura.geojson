@@ -1,0 +1,487 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.09477,
+                        41.28309
+                    ],
+                    [
+                        1.79608,
+                        41.04027
+                    ],
+                    [
+                        2.19766,
+                        41.08003
+                    ],
+                    [
+                        2.35805,
+                        41.09032
+                    ],
+                    [
+                        2.36156,
+                        41.09265
+                    ],
+                    [
+                        2.32646,
+                        40.97075
+                    ],
+                    [
+                        2.28,
+                        41.10919
+                    ],
+                    [
+                        2.34854,
+                        41.10464
+                    ],
+                    [
+                        5.96546,
+                        39.88891
+                    ],
+                    [
+                        6.15027,
+                        39.8956
+                    ],
+                    [
+                        6.42373,
+                        39.8071
+                    ],
+                    [
+                        7.02937,
+                        39.44686
+                    ],
+                    [
+                        7.09602,
+                        39.47636
+                    ],
+                    [
+                        7.0962,
+                        39.47643
+                    ],
+                    [
+                        7.37868,
+                        39.68239
+                    ],
+                    [
+                        7.76161,
+                        39.69283
+                    ],
+                    [
+                        8.55687,
+                        38.10803
+                    ],
+                    [
+                        3.90245,
+                        40.72402
+                    ],
+                    [
+                        3.89002,
+                        40.68914
+                    ],
+                    [
+                        3.79433,
+                        40.60314
+                    ],
+                    [
+                        4.02038,
+                        40.4477
+                    ],
+                    [
+                        3.97517,
+                        40.51785
+                    ],
+                    [
+                        1.48094,
+                        37.43714
+                    ],
+                    [
+                        1.68476,
+                        37.26263
+                    ],
+                    [
+                        2.00418,
+                        36.90723
+                    ],
+                    [
+                        2.10846,
+                        36.73114
+                    ],
+                    [
+                        2.68019,
+                        36.89676
+                    ],
+                    [
+                        3.31042,
+                        38.93713
+                    ],
+                    [
+                        3.39832,
+                        39.01984
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Trajectory",
+                "visibility": true,
+                "extrude": true,
+                "tessellate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.04308,
+                    41.30321
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.28309\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.09477\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 17-09-2022 17:00:00\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.79608,
+                    41.04027
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.04027\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 1.79608\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 18-09-2022 05:04:57\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.19766,
+                    41.08003
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.08003\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.19766\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 18-09-2022 06:02:27\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.35805,
+                    41.09032
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.09032\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.35805\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 18-09-2022 07:20:31\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.36156,
+                    41.09265
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.09265\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.36156\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 19-09-2022 05:40:35\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.28,
+                    41.10919
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.10919\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.28\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 22-09-2022 07:32:58\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : A\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.96546,
+                    39.88891
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.88891\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.96546\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 18-12-2022 03:48:08\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15027,
+                    39.8956
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.8956\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 6.15027\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 21-12-2022 03:53:32\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.42373,
+                    39.8071
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.8071\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 6.42373\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 22-12-2022 03:23:45\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : A\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.02937,
+                    39.44686
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.44686\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 7.02937\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 27-12-2022 04:00:37\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09602,
+                    39.47636
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.47636\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 7.09602\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 28-12-2022 03:36:15\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0962,
+                    39.47643
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.47643\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 7.0962\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 28-12-2022 03:37:13\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.37868,
+                    39.68239
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.68239\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 7.37868\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 02-01-2023 04:14:07\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.76161,
+                    39.69283
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 39.69283\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 7.76161\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 03-01-2023 03:48:23\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : A\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.55687,
+                    38.10803
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\n\t\t\t\t\t\t\t\t\t\t<b>Latitud</b> : 38.10803\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 8.55687\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 18-01-2023 04:18:12\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : A\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.90245,
+                    40.72402
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.72402\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.90245\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-10-2023 03:27:28\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.89002,
+                    40.68914
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.68914\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.89002\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-10-2023 01:05:50\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.79433,
+                    40.60314
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.60314\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.79433\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 10-10-2023 00:20:50\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : A\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.02038,
+                    40.4477
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.4477\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.02038\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 12-10-2023 00:29:19\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.97517,
+                    40.51785
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 3.97517\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 40.51785\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 16-10-2023 00:46:06\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.48094,
+                    37.43714
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 37.43714\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 1.48094\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 24-12-2023 00:57:13\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.68476,
+                    37.26263
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 37.26263\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 1.68476\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 25-12-2023 00:13:30\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.00418,
+                    36.90723
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 36.90723\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.00418\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 26-12-2023 01:04:28\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.10846,
+                    36.73114
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 36.73114\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.10846\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 27-12-2023 00:20:05\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.68019,
+                    36.89676
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 36.89676\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.68019\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 29-12-2023 00:27:45\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31042,
+                    38.93713
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Daura</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 38.93713\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.31042\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 17-01-2024 00:49:26\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : A\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.39832,
+                    39.01984
+                ]
+            },
+            "properties": {
+                "name": "DAURA - 222047",
+                "description": "\n\t\t\t\t\t<b>Latitud</b> : 39.01984\n\t\t\t\t\t<br/><b>Longitud</b> : 3.39832\n\t\t\t\t\t<br/><b>Data</b> : 22-01-2024 00:19:29\n\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t"
+            }
+        }
+    ]
+}
