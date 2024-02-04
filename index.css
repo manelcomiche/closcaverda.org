@@ -313,11 +313,6 @@
   font-size: 20px;
 }
 
-.inici-hero-sub-heading {
-  font-size: 18px;
-  text-align: center;
-}
-
 .inici-btn-group {
   gap: var(--dl-space-space-oneandhalfunits);
   display: flex;
@@ -457,11 +452,11 @@
   justify-content: flex-start;
 }
 
-.inici-text25 {
+.inici-text11 {
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 
-.inici-text26 {
+.inici-text12 {
   text-align: left;
 }
 
@@ -507,11 +502,11 @@
   justify-content: flex-start;
 }
 
-.inici-text32 {
+.inici-text18 {
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 
-.inici-text33 {
+.inici-text19 {
   text-align: left;
 }
 
@@ -562,13 +557,13 @@
   justify-content: flex-start;
 }
 
-.inici-text36 {
+.inici-text22 {
   color: var(--dl-color-custom-accent2);
   font-size: 3rem;
   border-radius: var(--dl-radius-radius-radius4);
 }
 
-.inici-text37 {
+.inici-text23 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -582,12 +577,12 @@
   justify-content: flex-start;
 }
 
-.inici-text38 {
+.inici-text24 {
   color: var(--dl-color-custom-accent2);
   font-size: 3rem;
 }
 
-.inici-text39 {
+.inici-text25 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -601,12 +596,12 @@
   justify-content: flex-start;
 }
 
-.inici-text40 {
+.inici-text26 {
   color: var(--dl-color-custom-accent2);
   font-size: 3rem;
 }
 
-.inici-text41 {
+.inici-text27 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -620,12 +615,12 @@
   justify-content: flex-start;
 }
 
-.inici-text42 {
+.inici-text28 {
   color: var(--dl-color-custom-accent2);
   font-size: 3rem;
 }
 
-.inici-text43 {
+.inici-text29 {
   font-size: 1.15rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
@@ -810,12 +805,6 @@
     font-size: 90px;
   }
 
-  .inici-hero-sub-heading {
-    text-align: center;
-    padding-left: var(--dl-space-space-threeunits);
-    padding-right: var(--dl-space-space-threeunits);
-  }
-
   .inici-stats {
     height: 1539px;
     padding-top: 132px;
@@ -835,13 +824,13 @@
     grid-template-columns: 1fr 1fr;
   }
 
-  .inici-text26 {
+  .inici-text12 {
     text-align: center;
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
   }
 
-  .inici-text33 {
+  .inici-text19 {
     text-align: center;
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
@@ -851,19 +840,19 @@
     margin-bottom: var(--dl-space-space-sixunits);
   }
 
-  .inici-text36 {
+  .inici-text22 {
     text-align: center;
   }
 
-  .inici-text38 {
+  .inici-text24 {
     text-align: center;
   }
 
-  .inici-text40 {
+  .inici-text26 {
     text-align: center;
   }
 
-  .inici-text42 {
+  .inici-text28 {
     text-align: center;
   }
 
@@ -937,14 +926,13 @@
     font-size: 55px;
   }
 
-  .inici-hero-sub-heading {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
-
   .inici-features {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
+  }
+
+  .inici-features-heading {
+    text-align: center;
   }
 
   .inici-container03 {
@@ -976,7 +964,7 @@
     justify-content: center;
   }
 
-  .inici-text26 {
+  .inici-text12 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
@@ -992,7 +980,7 @@
     justify-content: center;
   }
 
-  .inici-text33 {
+  .inici-text19 {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
@@ -1008,19 +996,19 @@
     grid-template-columns: 1fr 1fr;
   }
 
-  .inici-text37 {
+  .inici-text23 {
     text-align: center;
   }
 
-  .inici-text39 {
+  .inici-text25 {
     text-align: center;
   }
 
-  .inici-text41 {
+  .inici-text27 {
     text-align: center;
   }
 
-  .inici-text43 {
+  .inici-text29 {
     text-align: center;
   }
 
@@ -1055,7 +1043,7 @@
     justify-content: space-between;
   }
 
-  .inici-text44 {
+  .inici-text30 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -1112,6 +1100,10 @@
     padding-bottom: var(--dl-space-space-twounits);
   }
 
+  .inici-features-heading {
+    text-align: center;
+  }
+
   .inici-stats {
     height: 1056px;
     padding-top: var(--dl-space-space-twounits);
@@ -1131,11 +1123,11 @@
     padding-bottom: 0px;
   }
 
-  .inici-text25 {
+  .inici-text11 {
     text-align: center;
   }
 
-  .inici-text32 {
+  .inici-text18 {
     text-align: center;
   }
 
@@ -1208,7 +1200,7 @@
     justify-content: space-between;
   }
 
-  .inici-text44 {
+  .inici-text30 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
