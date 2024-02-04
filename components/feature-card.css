@@ -30,4 +30,8 @@
   .feature-card-container {
     flex-direction: column;
   }
+  .feature-card-root-class-name {
+    width: auto;
+    height: auto;
+  }
 }
