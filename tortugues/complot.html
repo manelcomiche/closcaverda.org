@@ -89,7 +89,7 @@
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© OpenStreetMap - Manel Comiche - Closcaverda - Miquel Martí i Pol - 2024' }).addTo(map);
 
-        var geojsonUrl = '../tracking/data/complot.geojson';
+        var geojsonUrl = '../tortugues/data/complot.geojson';
 
         fetch(geojsonUrl).then(function (response) {
             return response.json();
