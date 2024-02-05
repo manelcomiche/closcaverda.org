@@ -98,6 +98,16 @@
   font-weight: 700;
 }
 
+@media(max-width: 479px) {
+  .question1-text {
+    text-align: left;
+  }
+
+  .question1-root-class-name {
+    align-self: flex-start;
+  }
+}
+
 .inici-container {
   width: 100%;
   display: flex;
@@ -307,6 +317,7 @@
 .inici-text02 {
   width: auto;
   height: auto;
+  text-align: center;
 }
 
 .inici-text03 {
@@ -805,6 +816,10 @@
     font-size: 90px;
   }
 
+  .inici-text02 {
+    text-align: center;
+  }
+
   .inici-stats {
     height: 1539px;
     padding-top: 132px;
@@ -924,6 +939,10 @@
 
   .inici-text {
     font-size: 55px;
+  }
+
+  .inici-text02 {
+    text-align: center;
   }
 
   .inici-features {
@@ -1132,15 +1151,16 @@
   }
 
   .inici-stats1 {
+    height: 685px;
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
-    margin-bottom: 323px;
+    margin-bottom: 0px;
     padding-right: var(--dl-space-space-unit);
-    padding-bottom: var(--dl-space-space-twounits);
+    padding-bottom: 104px;
   }
 
   .inici-stats2 {
-    height: 371px;
+    height: 714px;
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
@@ -1149,6 +1169,7 @@
   }
 
   .inici-entitats {
+    width: 320px;
     height: 379px;
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
