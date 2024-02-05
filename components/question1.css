@@ -8,6 +8,17 @@
   align-items: flex-start;
   flex-direction: column;
 }
+
 .question1-text {
   font-weight: 700;
+}
+
+@media(max-width: 479px) {
+  .question1-text {
+    text-align: left;
+  }
+
+  .question1-root-class-name {
+    align-self: flex-start;
+  }
 }

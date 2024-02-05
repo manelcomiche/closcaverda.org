@@ -7,6 +7,7 @@
   flex-direction: column;
   justify-content: center;
 }
+
 .gallery-card31-image {
   top: 0px;
   left: 0px;
@@ -17,13 +18,3 @@
   position: absolute;
   object-fit: cover;
 }
-
-
-
-
-
-
-
-
-
-
