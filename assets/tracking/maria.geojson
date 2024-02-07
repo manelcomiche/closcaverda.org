@@ -1,0 +1,1727 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.095156,
+                        41.283418
+                    ],
+                    [
+                        2.11688,
+                        41.28174
+                    ],
+                    [
+                        2.1175,
+                        41.28182
+                    ],
+                    [
+                        2.11769,
+                        41.28103
+                    ],
+                    [
+                        2.11768,
+                        41.28112
+                    ],
+                    [
+                        2.1546,
+                        41.22729
+                    ],
+                    [
+                        2.37847,
+                        41.24532
+                    ],
+                    [
+                        2.45808,
+                        41.23562
+                    ],
+                    [
+                        2.49678,
+                        41.2341
+                    ],
+                    [
+                        2.61578,
+                        41.16039
+                    ],
+                    [
+                        2.62835,
+                        41.13003
+                    ],
+                    [
+                        2.63743,
+                        41.0911
+                    ],
+                    [
+                        2.73355,
+                        40.8707
+                    ],
+                    [
+                        2.68753,
+                        40.67456
+                    ],
+                    [
+                        2.6799,
+                        40.65217
+                    ],
+                    [
+                        2.70316,
+                        40.60966
+                    ],
+                    [
+                        2.83425,
+                        40.55644
+                    ],
+                    [
+                        2.82925,
+                        40.56014
+                    ],
+                    [
+                        2.82456,
+                        40.5958
+                    ],
+                    [
+                        2.83174,
+                        40.59589
+                    ],
+                    [
+                        2.86226,
+                        40.49692
+                    ],
+                    [
+                        3.03066,
+                        40.46026
+                    ],
+                    [
+                        2.87783,
+                        40.51469
+                    ],
+                    [
+                        2.89544,
+                        40.52065
+                    ],
+                    [
+                        2.98548,
+                        40.52546
+                    ],
+                    [
+                        2.99112,
+                        40.52478
+                    ],
+                    [
+                        3.03054,
+                        40.49262
+                    ],
+                    [
+                        3.12665,
+                        40.48901
+                    ],
+                    [
+                        3.15288,
+                        40.48593
+                    ],
+                    [
+                        3.16556,
+                        40.50921
+                    ],
+                    [
+                        3.23453,
+                        40.49605
+                    ],
+                    [
+                        3.23853,
+                        40.50708
+                    ],
+                    [
+                        3.15173,
+                        40.61185
+                    ],
+                    [
+                        3.15243,
+                        40.61434
+                    ],
+                    [
+                        3.15029,
+                        40.5768
+                    ],
+                    [
+                        3.15232,
+                        40.57922
+                    ],
+                    [
+                        3.14445,
+                        40.6649
+                    ],
+                    [
+                        2.96055,
+                        40.71118
+                    ],
+                    [
+                        2.80665,
+                        40.84639
+                    ],
+                    [
+                        2.90731,
+                        40.96073
+                    ],
+                    [
+                        2.89105,
+                        40.95681
+                    ],
+                    [
+                        2.88453,
+                        40.9522
+                    ],
+                    [
+                        2.88064,
+                        40.94875
+                    ],
+                    [
+                        2.8742,
+                        41.01829
+                    ],
+                    [
+                        2.89807,
+                        41.01789
+                    ],
+                    [
+                        3.02205,
+                        41.08632
+                    ],
+                    [
+                        3.00321,
+                        41.11468
+                    ],
+                    [
+                        2.95957,
+                        41.35111
+                    ],
+                    [
+                        3.11635,
+                        41.53988
+                    ],
+                    [
+                        3.09849,
+                        41.56526
+                    ],
+                    [
+                        3.08458,
+                        41.57621
+                    ],
+                    [
+                        3.05115,
+                        41.72585
+                    ],
+                    [
+                        3.07848,
+                        41.53918
+                    ],
+                    [
+                        3.14058,
+                        41.47919
+                    ],
+                    [
+                        3.32105,
+                        41.35405
+                    ],
+                    [
+                        3.74019,
+                        41.14078
+                    ],
+                    [
+                        3.77356,
+                        41.10112
+                    ],
+                    [
+                        3.91133,
+                        41.07388
+                    ],
+                    [
+                        3.90279,
+                        41.07986
+                    ],
+                    [
+                        4.13651,
+                        41.05286
+                    ],
+                    [
+                        4.15461,
+                        41.03849
+                    ],
+                    [
+                        4.17177,
+                        41.03306
+                    ],
+                    [
+                        4.26522,
+                        41.04899
+                    ],
+                    [
+                        4.35439,
+                        41.1225
+                    ],
+                    [
+                        4.34509,
+                        41.1275
+                    ],
+                    [
+                        4.36212,
+                        41.12866
+                    ],
+                    [
+                        4.35671,
+                        41.13039
+                    ],
+                    [
+                        4.36124,
+                        41.13635
+                    ],
+                    [
+                        4.44146,
+                        41.23289
+                    ],
+                    [
+                        4.47666,
+                        41.25387
+                    ],
+                    [
+                        4.53206,
+                        41.3358
+                    ],
+                    [
+                        4.50093,
+                        41.35104
+                    ],
+                    [
+                        4.51802,
+                        41.35517
+                    ],
+                    [
+                        4.52525,
+                        41.37068
+                    ],
+                    [
+                        4.52219,
+                        41.36584
+                    ],
+                    [
+                        4.59673,
+                        41.43299
+                    ],
+                    [
+                        4.68187,
+                        41.49841
+                    ],
+                    [
+                        4.86583,
+                        41.53314
+                    ],
+                    [
+                        4.87784,
+                        41.5068
+                    ],
+                    [
+                        4.95375,
+                        41.46497
+                    ],
+                    [
+                        5.03768,
+                        41.45367
+                    ],
+                    [
+                        5.05248,
+                        41.44669
+                    ],
+                    [
+                        5.17415,
+                        41.43308
+                    ],
+                    [
+                        5.20862,
+                        41.4393
+                    ],
+                    [
+                        5.38794,
+                        41.46915
+                    ],
+                    [
+                        5.38981,
+                        41.44521
+                    ],
+                    [
+                        5.3925,
+                        41.42237
+                    ],
+                    [
+                        5.36477,
+                        41.48376
+                    ],
+                    [
+                        5.4105,
+                        41.56529
+                    ],
+                    [
+                        5.50848,
+                        41.64184
+                    ],
+                    [
+                        5.50647,
+                        41.63706
+                    ],
+                    [
+                        5.5223,
+                        41.65495
+                    ],
+                    [
+                        5.55738,
+                        41.63
+                    ],
+                    [
+                        5.56751,
+                        41.63262
+                    ],
+                    [
+                        5.56978,
+                        41.6281
+                    ],
+                    [
+                        5.57878,
+                        41.63154
+                    ],
+                    [
+                        5.59382,
+                        41.62926
+                    ],
+                    [
+                        5.56578,
+                        41.58298
+                    ],
+                    [
+                        5.68356,
+                        41.61277
+                    ],
+                    [
+                        5.73384,
+                        41.6404
+                    ],
+                    [
+                        5.73867,
+                        41.63926
+                    ],
+                    [
+                        5.75585,
+                        41.64153
+                    ],
+                    [
+                        5.76944,
+                        41.64596
+                    ],
+                    [
+                        5.77329,
+                        41.64508
+                    ],
+                    [
+                        5.78085,
+                        41.6374
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Trajectory",
+                "visibility": true,
+                "extrude": true,
+                "tessellate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.095156,
+                    41.283418
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.283418\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.095156\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 08:02:41\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.11688,
+                    41.28174
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.28174\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.11688\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 08:34:44\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1175,
+                    41.28182
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.28182\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.1175\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 08:40:55\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.11769,
+                    41.28103
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.28103\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.11769\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 09:31:05\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1546,
+                    41.22729
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.22729\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.1546\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 11:40:29\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.37847,
+                    41.24532
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.24532\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.37847\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 19:09:03\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.45808,
+                    41.23562
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.23562\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.45808\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 21:29:32\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49678,
+                    41.2341
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.2341\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.49678\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-26-2022 23:11:03\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.61578,
+                    41.16039
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.16039\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.61578\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-27-2022 05:54:26\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.62835,
+                    41.13003
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.13003\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.62835\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-27-2022 07:23:41\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.63743,
+                    41.0911
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.0911\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.63743\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-27-2022 08:59:20\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.73355,
+                    40.8707
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.8707\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.73355\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-27-2022 19:43:33\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.68753,
+                    40.67456
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.67456\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.68753\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-28-2022 06:04:18\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6799,
+                    40.65217
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform XALOCIII - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.65217\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.6799\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-28-2022 08:35:52\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.83425,
+                    40.55644
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.55644\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.83425\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-29-2022 08:10:31\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82925,
+                    40.56014
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.56014\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.82925\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-29-2022 09:47:50\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82456,
+                    40.5958
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.5958\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.82456\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-29-2022 18:42:07\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.83174,
+                    40.59589
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.59589\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.83174\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-29-2022 19:34:55\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.86226,
+                    40.49692
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.49692\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.86226\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 06:02:26\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03066,
+                    40.46026
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.46026\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.03066\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 07:47:30\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87783,
+                    40.51469
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.51469\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.87783\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 09:21:41\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89544,
+                    40.52065
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.52065\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.89544\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 10:57:41\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.98548,
+                    40.52546
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.52546\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.98548\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 19:07:34\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.99112,
+                    40.52478
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.52478\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.99112\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 19:12:15\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03054,
+                    40.49262
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.49262\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.03054\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-30-2022 20:43:48\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.12665,
+                    40.48901
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.48901\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.12665\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-31-2022 08:59:13\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15288,
+                    40.48593
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.48593\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.15288\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-31-2022 10:40:26\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16556,
+                    40.50921
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.50921\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.16556\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 08-31-2022 18:40:24\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.23453,
+                    40.49605
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.49605\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.23453\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-01-2022 07:00:15\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.23853,
+                    40.50708
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.50708\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.23853\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-01-2022 08:34:33\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15173,
+                    40.61185
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.61185\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.15173\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-01-2022 18:49:10\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15243,
+                    40.61434
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.61434\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.15243\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-01-2022 19:54:47\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15029,
+                    40.5768
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.5768\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.15029\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-02-2022 08:06:53\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15232,
+                    40.57922
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.57922\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.15232\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-02-2022 08:53:51\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14445,
+                    40.6649
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.6649\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.14445\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-02-2022 19:31:13\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.96055,
+                    40.71118
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.71118\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.96055\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-03-2022 09:21:39\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.80665,
+                    40.84639
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.84639\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.80665\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-03-2022 19:05:51\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90731,
+                    40.96073
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.96073\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.90731\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-04-2022 08:57:16\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89105,
+                    40.95681
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.95681\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.89105\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-04-2022 09:58:42\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.88453,
+                    40.9522
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.9522\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.88453\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-04-2022 10:05:39\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.88064,
+                    40.94875
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 40.94875\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.88064\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-04-2022 10:32:18\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8742,
+                    41.01829
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.01829\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.8742\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-04-2022 18:38:22\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89807,
+                    41.01789
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.01789\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.89807\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-04-2022 20:21:06\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02205,
+                    41.08632
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.08632\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.02205\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-05-2022 06:53:09\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.00321,
+                    41.11468
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.11468\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.00321\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-05-2022 08:32:17\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.95957,
+                    41.35111
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.35111\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 2.95957\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-05-2022 19:54:05\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11635,
+                    41.53988
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.53988\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.11635\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-06-2022 05:41:29\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09849,
+                    41.56526
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.56526\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.09849\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-06-2022 07:59:55\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05115,
+                    41.72585
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.72585\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.05115\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-06-2022 19:33:31\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07848,
+                    41.53918
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.53918\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.07848\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-07-2022 07:45:53\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14058,
+                    41.47919
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.47919\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.14058\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-07-2022 10:55:36\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32105,
+                    41.35405
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.35405\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.32105\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-07-2022 19:05:41\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77356,
+                    41.10112
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.10112\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.77356\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-09-2022 09:34:07\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91133,
+                    41.07388
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.07388\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.91133\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-09-2022 10:30:27\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.90279,
+                    41.07986
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.07986\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 3.90279\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-09-2022 10:30:55\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.13651,
+                    41.05286
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.05286\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.13651\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-10-2022 08:06:13\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.15461,
+                    41.03849
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.03849\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.15461\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-10-2022 09:16:09\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17177,
+                    41.03306
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.03306\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.17177\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-10-2022 10:19:17\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26522,
+                    41.04899
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.04899\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.26522\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-10-2022 19:08:00\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35439,
+                    41.1225
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.1225\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.35439\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 06:25:46\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34509,
+                    41.1275
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.1275\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.34509\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 07:41:26\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36212,
+                    41.12866
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.12866\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.36212\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 08:40:29\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35671,
+                    41.13039
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.13039\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.35671\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 09:19:16\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36124,
+                    41.13635
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.13635\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.36124\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 10:14:33\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.44146,
+                    41.23289
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.23289\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.44146\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 19:03:56\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47666,
+                    41.25387
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.25387\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.47666\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 20:43:10\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.53206,
+                    41.3358
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.3358\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.53206\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-12-2022 07:15:20\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.50093,
+                    41.35104
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.35104\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.50093\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-12-2022 08:26:07\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.51802,
+                    41.35517
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.35517\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.51802\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-12-2022 08:54:32\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.52525,
+                    41.37068
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.37068\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.52525\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-12-2022 09:35:02\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.52219,
+                    41.36584
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.36584\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.52219\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-12-2022 10:11:13\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.59673,
+                    41.43299
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.43299\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.59673\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-12-2022 20:13:34\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.68187,
+                    41.49841
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.49841\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.68187\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-13-2022 08:31:35\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87784,
+                    41.5068
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.5068\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.87784\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-14-2022 19:34:20\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95375,
+                    41.46497
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.46497\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 4.95375\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-15-2022 09:35:24\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03768,
+                    41.45367
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.45367\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.03768\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-15-2022 18:59:34\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05248,
+                    41.44669
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.44669\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.05248\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-15-2022 20:40:49\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17415,
+                    41.43308
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.43308\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.17415\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-16-2022 08:53:38\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.20862,
+                    41.4393
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.4393\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.20862\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-16-2022 10:47:15\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38794,
+                    41.46915
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.46915\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.38794\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-17-2022 08:28:10\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38981,
+                    41.44521
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.44521\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.38981\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-17-2022 10:40:42\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3925,
+                    41.42237
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.42237\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.3925\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-17-2022 19:49:53\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36477,
+                    41.48376
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Platform MARÍA - 221929</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.48376\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.36477\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-18-2022 10:31:57\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50848,
+                    41.64184
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.64184\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.50848\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-19-2022 09:15:00\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50647,
+                    41.63706
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.63706\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.50647\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-19-2022 10:14:14\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5223,
+                    41.65495
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.65495\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.5223\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-19-2022 20:39:57\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55738,
+                    41.63
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.63\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.55738\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 05:02:58\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.56751,
+                    41.63262
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.63262\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.56751\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 07:17:30\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.56978,
+                    41.6281
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.6281\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.56978\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 08:52:03\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57878,
+                    41.63154
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.63154\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.57878\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 09:08:27\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.59382,
+                    41.62926
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.62926\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.59382\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 10:03:34\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.56578,
+                    41.58298
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.58298\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.56578\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 18:35:53\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68356,
+                    41.61277
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.61277\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.68356\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-20-2022 20:16:41\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 2\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73384,
+                    41.6404
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.6404\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.73384\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-21-2022 08:21:29\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.73867,
+                    41.63926
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.63926\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.73867\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-21-2022 08:28:47\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75585,
+                    41.64153
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.64153\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.75585\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-21-2022 09:51:46\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.76944,
+                    41.64596
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.64596\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.76944\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-21-2022 19:46:01\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.77329,
+                    41.64508
+                ]
+            },
+            "properties": {
+                "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: María</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitud</b> : 41.64508\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitud</b> : 5.77329\n\t\t\t\t\t\t\t\t\t\t<br/><b>Data</b> : 09-21-2022 19:52:35\n\t\t\t\t\t\t\t\t\t\t<br/><b>Tipus de localització<b> : 3\n\t\t\t\t\t\t\t\t\t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.78085,
+                    41.6374
+                ]
+            },
+            "properties": {
+                "name": "MARIA_FB - 221929",
+                "description": "\n\t\t\t\t\t<b>Latitud</b> : 41.6374\n\t\t\t\t\t<br/><b>Longitud</b> : 5.78085\n\t\t\t\t\t<br/><b>Data</b> : 09-22-2022 05:42:05\n\t\t\t\t\t<br/><b>Tipus de localització<b> : 1\n\t\t\t\t"
+            }
+        }
+    ]
+}
