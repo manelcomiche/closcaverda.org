@@ -65,7 +65,6 @@
 
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,400&display=swap" rel="stylesheet">
 
-    <link href="../assets/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" />
 
     <style>
@@ -335,6 +334,50 @@
             </div>
         </div>
     </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            let currentIndex = 1; 
+            const slidesCount = 3;
+
+            setInterval(() => {
+                document.getElementById(`carousel-${currentIndex}`).checked = true;
+                
+                currentIndex = currentIndex % slidesCount + 1;
+            }, 5000); 
+        });
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            let currentIndex = 1; 
+            let startX;
+            const threshold = 10;
+
+            const carousel = document.querySelector('.carousel-inner');
+
+            carousel.addEventListener('touchstart', function(e) {
+                console.log('touchstart');
+                startX = e.touches[0].pageX;
+            }, false);
+
+            carousel.addEventListener('touchmove', function(e) {
+                e.preventDefault(); 
+            }, false);
+
+            carousel.addEventListener('touchend', function(e) {
+                const moveX = e.changedTouches[0].pageX - startX;
+
+                if (Math.abs(moveX) > threshold) {
+                    if (moveX > 0) {
+                        document.querySelector('.prev.control-' + currentIndex).click();
+                    } else {
+                        document.querySelector('.next.control-' + currentIndex).click();
+                    }
+                }
+            }, false);
+        });
+    </script>
 </body>
 
 </html>
