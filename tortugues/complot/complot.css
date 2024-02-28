@@ -529,6 +529,17 @@
 }
 
 @media(max-width: 479px) {
+  .complot-header {
+    width: 100%;
+    display: flex;
+    z-index: 100;
+    position: sticky;
+    margin-bottom: 45%;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--dl-color-gray-white);
+  }
+
   .complot-navbar-interactive {
     height: 102px;
     padding: var(--dl-space-space-unit);
@@ -591,5 +602,31 @@
   .complot-text22 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+}
+
+@media (max-width: 375px) {
+  .complot-header {
+    width: 100%;
+    display: flex;
+    z-index: 100;
+    position: sticky;
+    margin-bottom: 135%;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--dl-color-gray-white);
+  }
+}
+
+@media (max-width: 320px) {
+  .complot-header {
+    width: 100%;
+    display: flex;
+    z-index: 100;
+    position: sticky;
+    margin-bottom: 135%;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--dl-color-gray-white);
   }
 }
