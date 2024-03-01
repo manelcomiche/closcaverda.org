@@ -8,11 +8,11 @@ Benvinguts al repositori GitHub del projecte Closcaverda. Aquesta iniciativa est
 
 Closcaverda és una iniciativa que neix de la passió i el compromís amb la conservació de les tortugues marines i els seus hàbitats naturals. A través de la venda de productes temàtics, busquem sensibilitzar sobre la importància d'aquestes criatures marines i recaptar fons per suportar directament els projectes de conservació liderats per la Fundació CRAM.
 
-## La Nostra Missió 🌟
+## La Nostra missió 🌟
 
 La nostra missió és doble: per una banda, volem augmentar la consciència sobre les amenaces que enfronten les tortugues marines a causa de l'activitat humana i el canvi climàtic; per l'altra, ens esforcem per recaptar fons que permetin implementar accions directes de conservació i recerca. Cada producte de Closcaverda representa una oportunitat per contribuir a aquesta causa noble.
 
-## Com Pots Contribuir 💪
+## Com pots contribuir 💪
 
 Hi ha moltes maneres de formar part de Closcaverda:
 
@@ -26,8 +26,12 @@ Si tens alguna pregunta, suggeriment o vols saber més sobre com pots implicar-t
 
 ## Reconeixements 🏆
 
-Aquest projecte no seria possible sense l'esforç i dedicació de tot l'equip de Closcaverda, així com la generositat dels nostres col·laboradors i suportadors. Un agraïment especial a el nostre membre Manel Comiche, per la seva inestimable contribució en disseny i programació.
+Aquest projecte no seria possible sense l'esforç i dedicació de tot l'equip de Closcaverda, així com la generositat de la fundació CRAM cedint-nos les seves dades de tortugues. Un agraïment especial al nostre membre Manel Comiche, per la seva inestimable contribució en disseny i programació.
 
-Segueix-nos a Twitter [@Closcaverda](https://twitter.com/closcaverda) per mantenir-te informat sobre les nostres últimes notícies i avanços.
+## The Challenge
+
+Aquest projecte ha estat creat especialment pel concurs: ["The Challenge"](https://educaixa.org/es/landing-thechallenge) de Fundació la Caixa & EduCaixa.
+
+Segueix-nos a Twitter [@closcaverda](https://twitter.com/closcaverda) o a Instagram [@closcaverda](https://instagram.com/closcaverda) per mantenir-te informat sobre les nostres últimes notícies i avanços.
 
 Gràcies per visitar-nos i per la teva contribució a la conservació de les tortugues marines! 🌊🐢
