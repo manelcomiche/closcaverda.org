@@ -121,6 +121,406 @@
                     [
                         3.39832,
                         39.01984
+                    ],
+                    [
+                        3.4002134226980254,
+                        38.9298683446568
+                    ],
+                    [
+                        3.4464348175100685,
+                        39.02283152686269
+                    ],
+                    [
+                        3.5189891573905907,
+                        39.11315117806941
+                    ],
+                    [
+                        3.6082480866390343,
+                        39.207195430474805
+                    ],
+                    [
+                        3.5512543390623197,
+                        39.14662521954348
+                    ],
+                    [
+                        3.462626539739716,
+                        39.16183848463194
+                    ],
+                    [
+                        3.4471977187088996,
+                        39.10356973870057
+                    ],
+                    [
+                        3.5127912857985253,
+                        39.03170695739013
+                    ],
+                    [
+                        3.5027322660251046,
+                        39.032836047291426
+                    ],
+                    [
+                        3.502641506791044,
+                        38.98662188908371
+                    ],
+                    [
+                        3.5275456008090993,
+                        38.993941832913315
+                    ],
+                    [
+                        3.519365382526496,
+                        38.92940972541149
+                    ],
+                    [
+                        3.4297851594234174,
+                        38.90935257754871
+                    ],
+                    [
+                        3.489827450686368,
+                        39.00382385520963
+                    ],
+                    [
+                        3.571604313044691,
+                        38.91713383811741
+                    ],
+                    [
+                        3.49735618629001,
+                        38.83052835859598
+                    ],
+                    [
+                        3.544865873151731,
+                        38.76680923198032
+                    ],
+                    [
+                        3.60151347236044,
+                        38.85485696011353
+                    ],
+                    [
+                        3.5604938434684175,
+                        38.8700600228628
+                    ],
+                    [
+                        3.6304383785022005,
+                        38.96750594340927
+                    ],
+                    [
+                        3.552510089250595,
+                        38.9427643717714
+                    ],
+                    [
+                        3.4538711237240105,
+                        39.03152387878047
+                    ],
+                    [
+                        3.5166849145788746,
+                        39.03659402778127
+                    ],
+                    [
+                        3.476664333606636,
+                        39.0797710812416
+                    ],
+                    [
+                        3.3992302134361894,
+                        39.13722602955837
+                    ],
+                    [
+                        3.3522939178594418,
+                        39.097212039158805
+                    ],
+                    [
+                        3.329145548795496,
+                        39.027278676236605
+                    ],
+                    [
+                        3.31286263620271,
+                        38.96176848447083
+                    ],
+                    [
+                        3.4108250467567753,
+                        38.965228710798925
+                    ],
+                    [
+                        3.3693953169906186,
+                        38.984326870607866
+                    ],
+                    [
+                        3.345254157865988,
+                        38.94550566481027
+                    ],
+                    [
+                        3.3996581148660345,
+                        39.04277822367716
+                    ],
+                    [
+                        3.3422450819317224,
+                        38.980145831978525
+                    ],
+                    [
+                        3.294325051132401,
+                        38.94191549238031
+                    ],
+                    [
+                        3.352784840040968,
+                        39.001114844057724
+                    ],
+                    [
+                        3.374790161853599,
+                        38.95204318045213
+                    ],
+                    [
+                        3.4610855794414803,
+                        38.918088549061665
+                    ],
+                    [
+                        3.5152698584266777,
+                        38.87614888374769
+                    ],
+                    [
+                        3.4576515541837636,
+                        38.94681773211834
+                    ],
+                    [
+                        3.3800534417254884,
+                        38.92920774296369
+                    ],
+                    [
+                        3.387051864990218,
+                        38.968089873731564
+                    ],
+                    [
+                        3.4843726056299764,
+                        39.02105584807151
+                    ],
+                    [
+                        3.5262039756075385,
+                        39.04144506271881
+                    ],
+                    [
+                        3.6232933483845993,
+                        38.98824548729281
+                    ],
+                    [
+                        3.5340989695680793,
+                        38.96983670449445
+                    ],
+                    [
+                        3.459899666999294,
+                        38.97286769366002
+                    ],
+                    [
+                        3.4786115385013368,
+                        38.96089006451042
+                    ],
+                    [
+                        3.5647764563844864,
+                        39.03692775809756
+                    ],
+                    [
+                        3.6167863530840374,
+                        38.93820680362169
+                    ],
+                    [
+                        3.715697599495152,
+                        38.914241150066864
+                    ],
+                    [
+                        3.7458697990745256,
+                        38.93777439913958
+                    ],
+                    [
+                        3.7876083456013014,
+                        38.95436241180202
+                    ],
+                    [
+                        3.727365882611656,
+                        38.9423436672283
+                    ],
+                    [
+                        3.761989713044898,
+                        38.87582916109646
+                    ],
+                    [
+                        3.7794990947552445,
+                        38.88263112527374
+                    ],
+                    [
+                        3.779942947397767,
+                        38.89634464150468
+                    ],
+                    [
+                        3.8110247071815375,
+                        38.86604448400345
+                    ],
+                    [
+                        3.8273334004922392,
+                        38.789624913037535
+                    ],
+                    [
+                        3.807418466340631,
+                        38.87451483517947
+                    ],
+                    [
+                        3.764319608093749,
+                        38.96436284031514
+                    ],
+                    [
+                        3.844660978799708,
+                        38.946246377551525
+                    ],
+                    [
+                        3.917319168675734,
+                        38.92638627462172
+                    ],
+                    [
+                        3.9489271742948637,
+                        38.961851684130025
+                    ],
+                    [
+                        3.9631372884283054,
+                        38.93134996958521
+                    ],
+                    [
+                        3.951097180218585,
+                        38.95701418978719
+                    ],
+                    [
+                        3.8664432267490323,
+                        38.99832217301475
+                    ],
+                    [
+                        3.9223774220127927,
+                        39.07667479749013
+                    ],
+                    [
+                        4.019172728087279,
+                        39.04581767511014
+                    ],
+                    [
+                        3.9711420549011103,
+                        38.98704832010722
+                    ],
+                    [
+                        4.064695000058101,
+                        38.96089528397199
+                    ],
+                    [
+                        4.114023391544826,
+                        39.05690163753029
+                    ],
+                    [
+                        4.17298531893645,
+                        38.96859900838919
+                    ],
+                    [
+                        4.208708019067353,
+                        39.02267169846573
+                    ],
+                    [
+                        4.2282774704554145,
+                        39.020287085429665
+                    ],
+                    [
+                        4.207560454929107,
+                        39.045225870908546
+                    ],
+                    [
+                        4.1402082997503955,
+                        39.0583425981522
+                    ],
+                    [
+                        4.1013087622868705,
+                        39.01075355779896
+                    ],
+                    [
+                        4.0018401723452035,
+                        39.05652572208701
+                    ],
+                    [
+                        3.978994310905547,
+                        39.0540006971315
+                    ],
+                    [
+                        3.907708265498536,
+                        39.11477792804669
+                    ],
+                    [
+                        3.981541763788098,
+                        39.143686068635674
+                    ],
+                    [
+                        3.9842034087996216,
+                        39.0736432764726
+                    ],
+                    [
+                        3.999752403817376,
+                        38.98475421807586
+                    ],
+                    [
+                        4.069456478113753,
+                        38.994224253374824
+                    ],
+                    [
+                        4.164763172256905,
+                        38.96673645179752
+                    ],
+                    [
+                        4.261560974603409,
+                        38.88751588859786
+                    ],
+                    [
+                        4.23965342267699,
+                        38.82836819288604
+                    ],
+                    [
+                        4.2172246614819215,
+                        38.84305975485336
+                    ],
+                    [
+                        4.169113847792486,
+                        38.760776708678826
+                    ],
+                    [
+                        4.171243736386514,
+                        38.81112195263169
+                    ],
+                    [
+                        4.155521902965166,
+                        38.794202820367495
+                    ],
+                    [
+                        4.09684028442921,
+                        38.86433423777326
+                    ],
+                    [
+                        4.183967456601585,
+                        38.85757731780805
+                    ],
+                    [
+                        4.108906619722544,
+                        38.883034681410535
+                    ],
+                    [
+                        4.143147614438652,
+                        38.95569120284215
+                    ],
+                    [
+                        4.1142944514297835,
+                        38.91975096467633
+                    ],
+                    [
+                        4.156098380454466,
+                        38.85769185376032
+                    ],
+                    [
+                        4.171603976452266,
+                        38.94759438493012
+                    ],
+                    [
+                        4.140699472077744,
+                        39.029375975697036
+                    ],
+                    [
+                        4.173127233888589,
+                        38.948780712606904
                     ]
                 ]
             },
@@ -482,6 +882,1507 @@
                 "name": "DAURA - 222047",
                 "description": "\n\t\t\t\t\t<b>Latitud</b> : 39.01984\n\t\t\t\t\t<br/><b>Longitud</b> : 3.39832\n\t\t\t\t\t<br/><b>Data</b> : 22-01-2024 00:19:29\n\t\t\t\t\t<br/><b>Tipus de localització<b> : B\n\t\t\t\t"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4002134226980254,
+                    38.9298683446568
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-11T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4464348175100685,
+                    39.02283152686269
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-12T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5189891573905907,
+                    39.11315117806941
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-13T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6082480866390343,
+                    39.207195430474805
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-14T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5512543390623197,
+                    39.14662521954348
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-15T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.462626539739716,
+                    39.16183848463194
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-16T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4471977187088996,
+                    39.10356973870057
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-17T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5127912857985253,
+                    39.03170695739013
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-18T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5027322660251046,
+                    39.032836047291426
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-19T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.502641506791044,
+                    38.98662188908371
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-20T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5275456008090993,
+                    38.993941832913315
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-21T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.519365382526496,
+                    38.92940972541149
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-22T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4297851594234174,
+                    38.90935257754871
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-23T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.489827450686368,
+                    39.00382385520963
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-24T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.571604313044691,
+                    38.91713383811741
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-25T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.49735618629001,
+                    38.83052835859598
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-26T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.544865873151731,
+                    38.76680923198032
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-27T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60151347236044,
+                    38.85485696011353
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-28T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5604938434684175,
+                    38.8700600228628
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-29T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6304383785022005,
+                    38.96750594340927
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-30T23:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.552510089250595,
+                    38.9427643717714
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-31T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4538711237240105,
+                    39.03152387878047
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-01T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5166849145788746,
+                    39.03659402778127
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-02T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.476664333606636,
+                    39.0797710812416
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-03T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3992302134361894,
+                    39.13722602955837
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-04T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3522939178594418,
+                    39.097212039158805
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-05T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329145548795496,
+                    39.027278676236605
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-06T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31286263620271,
+                    38.96176848447083
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-07T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4108250467567753,
+                    38.965228710798925
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-08T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3693953169906186,
+                    38.984326870607866
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-09T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345254157865988,
+                    38.94550566481027
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-10T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3996581148660345,
+                    39.04277822367716
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-11T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3422450819317224,
+                    38.980145831978525
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-12T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.294325051132401,
+                    38.94191549238031
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-13T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.352784840040968,
+                    39.001114844057724
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-14T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.374790161853599,
+                    38.95204318045213
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-15T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4610855794414803,
+                    38.918088549061665
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-16T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5152698584266777,
+                    38.87614888374769
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-17T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4576515541837636,
+                    38.94681773211834
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-18T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3800534417254884,
+                    38.92920774296369
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-19T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387051864990218,
+                    38.968089873731564
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-20T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4843726056299764,
+                    39.02105584807151
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-21T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5262039756075385,
+                    39.04144506271881
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-22T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6232933483845993,
+                    38.98824548729281
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-23T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5340989695680793,
+                    38.96983670449445
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-24T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.459899666999294,
+                    38.97286769366002
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-25T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4786115385013368,
+                    38.96089006451042
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-26T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5647764563844864,
+                    39.03692775809756
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-27T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6167863530840374,
+                    38.93820680362169
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-28T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.715697599495152,
+                    38.914241150066864
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-29T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7458697990745256,
+                    38.93777439913958
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-30T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7876083456013014,
+                    38.95436241180202
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-01T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.727365882611656,
+                    38.9423436672283
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-02T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761989713044898,
+                    38.87582916109646
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-03T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7794990947552445,
+                    38.88263112527374
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-04T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779942947397767,
+                    38.89634464150468
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-05T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8110247071815375,
+                    38.86604448400345
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-06T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8273334004922392,
+                    38.789624913037535
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-07T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.807418466340631,
+                    38.87451483517947
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-08T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764319608093749,
+                    38.96436284031514
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-09T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.844660978799708,
+                    38.946246377551525
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-10T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.917319168675734,
+                    38.92638627462172
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-11T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9489271742948637,
+                    38.961851684130025
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-12T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9631372884283054,
+                    38.93134996958521
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-13T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951097180218585,
+                    38.95701418978719
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-14T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8664432267490323,
+                    38.99832217301475
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-15T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9223774220127927,
+                    39.07667479749013
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-16T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.019172728087279,
+                    39.04581767511014
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-17T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9711420549011103,
+                    38.98704832010722
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-18T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064695000058101,
+                    38.96089528397199
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-19T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.114023391544826,
+                    39.05690163753029
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-20T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17298531893645,
+                    38.96859900838919
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-21T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.208708019067353,
+                    39.02267169846573
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-22T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2282774704554145,
+                    39.020287085429665
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-23T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.207560454929107,
+                    39.045225870908546
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-24T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1402082997503955,
+                    39.0583425981522
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-25T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1013087622868705,
+                    39.01075355779896
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-26T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0018401723452035,
+                    39.05652572208701
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-27T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.978994310905547,
+                    39.0540006971315
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-28T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.907708265498536,
+                    39.11477792804669
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-29T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.981541763788098,
+                    39.143686068635674
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-30T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9842034087996216,
+                    39.0736432764726
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-31T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.999752403817376,
+                    38.98475421807586
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-01T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.069456478113753,
+                    38.994224253374824
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-02T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.164763172256905,
+                    38.96673645179752
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-03T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.261560974603409,
+                    38.88751588859786
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-04T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.23965342267699,
+                    38.82836819288604
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-05T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2172246614819215,
+                    38.84305975485336
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-06T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.169113847792486,
+                    38.760776708678826
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-07T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171243736386514,
+                    38.81112195263169
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-08T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.155521902965166,
+                    38.794202820367495
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-09T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.09684028442921,
+                    38.86433423777326
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-10T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183967456601585,
+                    38.85757731780805
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-11T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108906619722544,
+                    38.883034681410535
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-12T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.143147614438652,
+                    38.95569120284215
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-13T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1142944514297835,
+                    38.91975096467633
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-14T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.156098380454466,
+                    38.85769185376032
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-15T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171603976452266,
+                    38.94759438493012
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-16T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.140699472077744,
+                    39.029375975697036
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-17T22:56:03.999Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.173127233888589,
+                    38.948780712606904
+                ]
+            },
+            "properties": {
+                "name": "DAURA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-18T22:56:03.999Z"
+            }
         }
-    ]
+    ],
+    "timestamp": "2024-06-18T22:56:03.999Z"
 }

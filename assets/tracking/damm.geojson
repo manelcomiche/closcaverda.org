@@ -1369,6 +1369,406 @@
                     [
                         17.15456,
                         39.30326
+                    ],
+                    [
+                        17.098497734129054,
+                        39.257062093736
+                    ],
+                    [
+                        17.18004623367066,
+                        39.19002242134012
+                    ],
+                    [
+                        17.272755594137465,
+                        39.18129081087357
+                    ],
+                    [
+                        17.244025580530202,
+                        39.142451894991936
+                    ],
+                    [
+                        17.181248923894973,
+                        39.112286182091204
+                    ],
+                    [
+                        17.238471065185532,
+                        39.094500516697536
+                    ],
+                    [
+                        17.27577101548802,
+                        39.02592807970232
+                    ],
+                    [
+                        17.29807169392967,
+                        38.93551027846569
+                    ],
+                    [
+                        17.249458715541024,
+                        38.8811507152714
+                    ],
+                    [
+                        17.204340106514554,
+                        38.862010641258244
+                    ],
+                    [
+                        17.13892810295017,
+                        38.93518599966588
+                    ],
+                    [
+                        17.210142775699968,
+                        38.86741849512664
+                    ],
+                    [
+                        17.19672899435212,
+                        38.8787950068898
+                    ],
+                    [
+                        17.265339545575316,
+                        38.9047218413702
+                    ],
+                    [
+                        17.200679287268567,
+                        38.96244800396019
+                    ],
+                    [
+                        17.113180209651677,
+                        38.972797621288485
+                    ],
+                    [
+                        17.178754074622383,
+                        39.071341250628905
+                    ],
+                    [
+                        17.122534149384464,
+                        39.07654842372724
+                    ],
+                    [
+                        17.112883188995067,
+                        39.00959861707897
+                    ],
+                    [
+                        17.171710109990375,
+                        38.98349504969974
+                    ],
+                    [
+                        17.238118780546767,
+                        39.002862197408454
+                    ],
+                    [
+                        17.237953205560146,
+                        39.080081461535464
+                    ],
+                    [
+                        17.29356835555687,
+                        39.140313583780134
+                    ],
+                    [
+                        17.252324270644614,
+                        39.08895970492174
+                    ],
+                    [
+                        17.196698690300416,
+                        39.08659704921629
+                    ],
+                    [
+                        17.16322348847064,
+                        39.01834530647582
+                    ],
+                    [
+                        17.19334380388546,
+                        39.00236063026195
+                    ],
+                    [
+                        17.205339595077245,
+                        39.07341299302811
+                    ],
+                    [
+                        17.19032702430981,
+                        39.12916766827467
+                    ],
+                    [
+                        17.139422641690267,
+                        39.15194471977974
+                    ],
+                    [
+                        17.183612852061472,
+                        39.10553704174663
+                    ],
+                    [
+                        17.269016728481915,
+                        39.081858372201296
+                    ],
+                    [
+                        17.2719916599613,
+                        39.13583918258057
+                    ],
+                    [
+                        17.368680234238905,
+                        39.18974656542635
+                    ],
+                    [
+                        17.281716209170717,
+                        39.190086019715686
+                    ],
+                    [
+                        17.221744328861696,
+                        39.11970115270678
+                    ],
+                    [
+                        17.25269442088008,
+                        39.09953712646995
+                    ],
+                    [
+                        17.209681980678127,
+                        39.086582883828356
+                    ],
+                    [
+                        17.274152830422373,
+                        39.17997205668743
+                    ],
+                    [
+                        17.182841380826158,
+                        39.265956687105756
+                    ],
+                    [
+                        17.119860478973923,
+                        39.29706996026836
+                    ],
+                    [
+                        17.10552538396851,
+                        39.356195032323036
+                    ],
+                    [
+                        17.1712078246889,
+                        39.359899798014226
+                    ],
+                    [
+                        17.248322012543007,
+                        39.311158292085956
+                    ],
+                    [
+                        17.315589820757907,
+                        39.29419943041674
+                    ],
+                    [
+                        17.300594946185925,
+                        39.36497432898108
+                    ],
+                    [
+                        17.345756421500777,
+                        39.31949834420443
+                    ],
+                    [
+                        17.33207668106505,
+                        39.380598188089614
+                    ],
+                    [
+                        17.24350413591855,
+                        39.34540452897899
+                    ],
+                    [
+                        17.232172897315884,
+                        39.26428981406007
+                    ],
+                    [
+                        17.210361597606624,
+                        39.33754300947313
+                    ],
+                    [
+                        17.254525638720274,
+                        39.43131790650758
+                    ],
+                    [
+                        17.168973563334074,
+                        39.390494114138775
+                    ],
+                    [
+                        17.12746840424758,
+                        39.32439462415948
+                    ],
+                    [
+                        17.22543920391095,
+                        39.3470084592415
+                    ],
+                    [
+                        17.251666205202458,
+                        39.33995587296008
+                    ],
+                    [
+                        17.241934109701983,
+                        39.34491954076181
+                    ],
+                    [
+                        17.15556384446982,
+                        39.42014954517747
+                    ],
+                    [
+                        17.106443299008706,
+                        39.457183397960364
+                    ],
+                    [
+                        17.054196308304437,
+                        39.380014646032656
+                    ],
+                    [
+                        17.136299980813412,
+                        39.33845245639724
+                    ],
+                    [
+                        17.230789523630545,
+                        39.25123973556199
+                    ],
+                    [
+                        17.161333681727882,
+                        39.1572372010202
+                    ],
+                    [
+                        17.21248105513956,
+                        39.1965861746248
+                    ],
+                    [
+                        17.17713709140722,
+                        39.12515204258973
+                    ],
+                    [
+                        17.235459410652936,
+                        39.17989725630075
+                    ],
+                    [
+                        17.291766130697788,
+                        39.08023261707029
+                    ],
+                    [
+                        17.246572200284835,
+                        39.10917354332541
+                    ],
+                    [
+                        17.187206921708608,
+                        39.16921843247399
+                    ],
+                    [
+                        17.27947471413092,
+                        39.16240885359744
+                    ],
+                    [
+                        17.293620666521875,
+                        39.13367595424598
+                    ],
+                    [
+                        17.36322291683036,
+                        39.173562154131965
+                    ],
+                    [
+                        17.3131644668342,
+                        39.182187229452296
+                    ],
+                    [
+                        17.36020187155443,
+                        39.12964262449774
+                    ],
+                    [
+                        17.38984142001347,
+                        39.20306353926733
+                    ],
+                    [
+                        17.32003315590549,
+                        39.2382182355381
+                    ],
+                    [
+                        17.322153426005407,
+                        39.18102757259614
+                    ],
+                    [
+                        17.260409020511965,
+                        39.153285971278386
+                    ],
+                    [
+                        17.249380617350262,
+                        39.15303651570178
+                    ],
+                    [
+                        17.345428360607393,
+                        39.22593284902102
+                    ],
+                    [
+                        17.38957154480234,
+                        39.142600935046914
+                    ],
+                    [
+                        17.455102008069005,
+                        39.19020773863814
+                    ],
+                    [
+                        17.460812112977045,
+                        39.18725912249255
+                    ],
+                    [
+                        17.443222857491186,
+                        39.24458949710601
+                    ],
+                    [
+                        17.4612503408166,
+                        39.25252566875439
+                    ],
+                    [
+                        17.509034449936788,
+                        39.332907586320886
+                    ],
+                    [
+                        17.543064662583635,
+                        39.33865332772589
+                    ],
+                    [
+                        17.50235544518102,
+                        39.29719053435903
+                    ],
+                    [
+                        17.508467111114076,
+                        39.21394719005242
+                    ],
+                    [
+                        17.559543624256168,
+                        39.21192964284289
+                    ],
+                    [
+                        17.64396062821912,
+                        39.29587478229142
+                    ],
+                    [
+                        17.57620709463192,
+                        39.20986974041189
+                    ],
+                    [
+                        17.640564673029047,
+                        39.21538652576054
+                    ],
+                    [
+                        17.637022922398202,
+                        39.13178016583803
+                    ],
+                    [
+                        17.579267660627462,
+                        39.22214723532044
+                    ],
+                    [
+                        17.534682912255033,
+                        39.20761182395349
+                    ],
+                    [
+                        17.58182434249827,
+                        39.13128440968068
+                    ],
+                    [
+                        17.481975356873043,
+                        39.178863224212094
+                    ],
+                    [
+                        17.416226618161,
+                        39.11505818223909
+                    ],
+                    [
+                        17.370826804416065,
+                        39.144724716349685
                     ]
                 ]
             },
@@ -5656,6 +6056,1507 @@
                 "name": "DAMM - 215627",
                 "description": "\n\t\t\t\t\t<b>Latitud</b> : 39.30326\n\t\t\t\t\t<br/><b>Longitud</b> : 17.15456\n\t\t\t\t\t<br/><b>Data</b> : 09-11-2022 11:52:22\n\t\t\t\t\t<br/><b>Tipus de localització<b> : 0\n\t\t\t\t"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.098497734129054,
+                    39.257062093736
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-12T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18004623367066,
+                    39.19002242134012
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-13T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.272755594137465,
+                    39.18129081087357
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-14T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.244025580530202,
+                    39.142451894991936
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-15T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.181248923894973,
+                    39.112286182091204
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-16T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.238471065185532,
+                    39.094500516697536
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-17T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27577101548802,
+                    39.02592807970232
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-18T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29807169392967,
+                    38.93551027846569
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-19T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.249458715541024,
+                    38.8811507152714
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-20T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.204340106514554,
+                    38.862010641258244
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-21T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13892810295017,
+                    38.93518599966588
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-22T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.210142775699968,
+                    38.86741849512664
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-23T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19672899435212,
+                    38.8787950068898
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-24T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.265339545575316,
+                    38.9047218413702
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-25T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.200679287268567,
+                    38.96244800396019
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-26T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.113180209651677,
+                    38.972797621288485
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-27T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.178754074622383,
+                    39.071341250628905
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-28T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.122534149384464,
+                    39.07654842372724
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-29T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.112883188995067,
+                    39.00959861707897
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-30T22:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.171710109990375,
+                    38.98349504969974
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-03-31T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.238118780546767,
+                    39.002862197408454
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-01T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.237953205560146,
+                    39.080081461535464
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-02T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29356835555687,
+                    39.140313583780134
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-03T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.252324270644614,
+                    39.08895970492174
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-04T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.196698690300416,
+                    39.08659704921629
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-05T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16322348847064,
+                    39.01834530647582
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-06T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19334380388546,
+                    39.00236063026195
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-07T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.205339595077245,
+                    39.07341299302811
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-08T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19032702430981,
+                    39.12916766827467
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-09T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.139422641690267,
+                    39.15194471977974
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-10T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.183612852061472,
+                    39.10553704174663
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-11T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.269016728481915,
+                    39.081858372201296
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-12T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2719916599613,
+                    39.13583918258057
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-13T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.368680234238905,
+                    39.18974656542635
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-14T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.281716209170717,
+                    39.190086019715686
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-15T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.221744328861696,
+                    39.11970115270678
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-16T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25269442088008,
+                    39.09953712646995
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-17T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.209681980678127,
+                    39.086582883828356
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-18T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.274152830422373,
+                    39.17997205668743
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-19T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.182841380826158,
+                    39.265956687105756
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-20T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.119860478973923,
+                    39.29706996026836
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-21T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10552538396851,
+                    39.356195032323036
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-22T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1712078246889,
+                    39.359899798014226
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-23T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.248322012543007,
+                    39.311158292085956
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-24T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.315589820757907,
+                    39.29419943041674
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-25T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.300594946185925,
+                    39.36497432898108
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-26T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.345756421500777,
+                    39.31949834420443
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-27T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.33207668106505,
+                    39.380598188089614
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-28T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24350413591855,
+                    39.34540452897899
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-29T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.232172897315884,
+                    39.26428981406007
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-30T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.210361597606624,
+                    39.33754300947313
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-01T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.254525638720274,
+                    39.43131790650758
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-02T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.168973563334074,
+                    39.390494114138775
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-03T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12746840424758,
+                    39.32439462415948
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-04T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22543920391095,
+                    39.3470084592415
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-05T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.251666205202458,
+                    39.33995587296008
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-06T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.241934109701983,
+                    39.34491954076181
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-07T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15556384446982,
+                    39.42014954517747
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-08T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.106443299008706,
+                    39.457183397960364
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-09T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.054196308304437,
+                    39.380014646032656
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-10T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.136299980813412,
+                    39.33845245639724
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-11T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.230789523630545,
+                    39.25123973556199
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-12T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.161333681727882,
+                    39.1572372010202
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-13T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21248105513956,
+                    39.1965861746248
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-14T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17713709140722,
+                    39.12515204258973
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-15T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.235459410652936,
+                    39.17989725630075
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-16T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.291766130697788,
+                    39.08023261707029
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-17T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.246572200284835,
+                    39.10917354332541
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-18T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.187206921708608,
+                    39.16921843247399
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-19T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27947471413092,
+                    39.16240885359744
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-20T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.293620666521875,
+                    39.13367595424598
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-21T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36322291683036,
+                    39.173562154131965
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-22T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3131644668342,
+                    39.182187229452296
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-23T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36020187155443,
+                    39.12964262449774
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-24T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38984142001347,
+                    39.20306353926733
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-25T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.32003315590549,
+                    39.2382182355381
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-26T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.322153426005407,
+                    39.18102757259614
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-27T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.260409020511965,
+                    39.153285971278386
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-28T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.249380617350262,
+                    39.15303651570178
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-29T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.345428360607393,
+                    39.22593284902102
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-30T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38957154480234,
+                    39.142600935046914
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-31T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.455102008069005,
+                    39.19020773863814
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-01T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.460812112977045,
+                    39.18725912249255
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-02T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.443222857491186,
+                    39.24458949710601
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-03T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4612503408166,
+                    39.25252566875439
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-04T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.509034449936788,
+                    39.332907586320886
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-05T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.543064662583635,
+                    39.33865332772589
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-06T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.50235544518102,
+                    39.29719053435903
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-07T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.508467111114076,
+                    39.21394719005242
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-08T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.559543624256168,
+                    39.21192964284289
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-09T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64396062821912,
+                    39.29587478229142
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-10T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.57620709463192,
+                    39.20986974041189
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-11T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.640564673029047,
+                    39.21538652576054
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-12T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.637022922398202,
+                    39.13178016583803
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-13T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.579267660627462,
+                    39.22214723532044
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-14T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.534682912255033,
+                    39.20761182395349
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-15T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58182434249827,
+                    39.13128440968068
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-16T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.481975356873043,
+                    39.178863224212094
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-17T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.416226618161,
+                    39.11505818223909
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-18T21:38:30.779Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.370826804416065,
+                    39.144724716349685
+                ]
+            },
+            "properties": {
+                "name": "DAMM",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-19T21:38:30.779Z"
+            }
         }
-    ]
+    ],
+    "timestamp": "2024-06-19T21:38:30.779Z"
 }

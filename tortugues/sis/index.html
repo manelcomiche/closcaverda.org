@@ -378,36 +378,74 @@
                 <script>
                   var map = L.map('map');
 
-                  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© OpenStreetMap - Manel Comiche - Closcaverda.org' }).addTo(map);
+                  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    maxZoom: 19,
+                    attribution: '© OpenStreetMap - Manel Comiche - Closcaverda.org'
+                  }).addTo(map);
 
                   var geojsonUrl = '../../../assets/tracking/sis.geojson';
 
                   fetch(geojsonUrl).then(function (response) {
                     return response.json();
                   }).then(function (geojsonData) {
-                    var lastIndex = geojsonData.features.length - 1;
-                    var lastFeature = geojsonData.features[lastIndex];
-                    var lastCoords = lastFeature.geometry.coordinates;
+                    const today = new Date();
+                    today.setHours(23, 59, 59, 999);
 
-                    var turtleIcon = L.icon({
+                    const validPoints = geojsonData.features.filter(feature => {
+                      if (feature.properties.timestamp) {
+                        const featureDate = new Date(feature.properties.timestamp);
+                        return featureDate <= today;
+                      }
+
+                      return true;
+                    });
+
+                    const lastValidPointIndex = validPoints.reduce((lastIndex, feature, index) => {
+                      return feature.geometry.type === 'Point' ? index : lastIndex;
+                    }, -1);
+
+                    const turtleIcon = L.icon({
                       iconUrl: '../../../../../assets/tortugaBlip.png',
                       iconSize: [38, 38],
                       iconAnchor: [19, 19]
                     });
 
-                    L.geoJSON(geojsonData, {
-                      onEachFeature: function (feature, layer) {
-                        if (feature.properties && feature.properties.description) { layer.bindPopup(feature.properties.description); }
-                      },
-                      pointToLayer: function (feature, latlng) {
-                        if (geojsonData.features.indexOf(feature) === lastIndex) { return L.marker(latlng, { icon: turtleIcon }); }
-                        else { return L.marker(latlng); }
+                    validPoints.forEach((feature, index) => {
+                      if (feature.geometry.type === 'Point') {
+                        L.geoJSON(feature, {
+                          pointToLayer: function (feature, latlng) {
+                            if (index === lastValidPointIndex) {
+                              return L.marker(latlng, { icon: turtleIcon });
+                            } else {
+                              return L.marker(latlng);
+                            }
+                          }
+                        }).addTo(map);
                       }
-                    }).addTo(map);
+                    });
 
-                    map.setView([lastCoords[1], lastCoords[0]], 13);
+                    if (lastValidPointIndex !== -1) {
+                      const lineCoordinates = validPoints.slice(0, lastValidPointIndex + 1).filter(feature => feature.geometry.type === 'Point').map(feature => feature.geometry.coordinates);
+
+                      const newLineString = {
+                        type: "Feature",
+                        geometry: {
+                          type: "LineString",
+                          coordinates: lineCoordinates
+                        },
+                        properties: {}
+                      };
+
+                      L.geoJSON(newLineString).addTo(map);
+                    }
+
+                    if (lastValidPointIndex !== -1) {
+                      const lastValidPoint = validPoints[lastValidPointIndex].geometry.coordinates;
+                      map.setView([lastValidPoint[1], lastValidPoint[0]], 13);
+                    }
                   }).catch(function (error) { console.log(error); });
                 </script>
+
               </div>
             </div>
           </div>
