@@ -8,7 +8,7 @@ Benvinguts al repositori GitHub del projecte Closcaverda. Aquesta iniciativa est
 
 Closcaverda és una iniciativa que neix de la passió i el compromís amb la conservació de les tortugues marines i els seus hàbitats naturals. A través de la venda de productes temàtics, busquem sensibilitzar sobre la importància d'aquestes criatures marines i recaptar fons per suportar directament els projectes de conservació liderats per la Fundació CRAM.
 
-## La Nostra missió 🌟
+## La nostra missió 🌟
 
 La nostra missió és doble: per una banda, volem augmentar la consciència sobre les amenaces que enfronten les tortugues marines a causa de l'activitat humana i el canvi climàtic; per l'altra, ens esforcem per recaptar fons que permetin implementar accions directes de conservació i recerca. Cada producte de Closcaverda representa una oportunitat per contribuir a aquesta causa noble.
 
