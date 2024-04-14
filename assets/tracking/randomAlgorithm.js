@@ -1,4 +1,4 @@
-const filePath = './assets/tracking/sis.geojson';
+const filePath = './assets/tracking/godzilla.geojson';
 
 function calculateNewPosition(lastPosition) {
     const latMove = (Math.random() * 0.2 - 0.1);
@@ -33,9 +33,9 @@ fetch(filePath).then(function (response) {
                 "coordinates": newPosition
             },
             "properties": {
-                "name": "SIS",
+                "name": "GODZILLA",
                 "description": "Posición actualizada",
-                "timestamp": timestamp, 
+                "timestamp": timestamp,
             }
         };
         geojson.features.push(newPointFeature);
@@ -54,7 +54,7 @@ fetch(filePath).then(function (response) {
                 },
                 "properties": {
                     "description": "Ruta actualizada",
-                    "timestamp": timestamp, 
+                    "timestamp": timestamp,
                 }
             };
             geojson.features.push(newLineFeature);
@@ -63,6 +63,5 @@ fetch(filePath).then(function (response) {
 
     geojson.timestamp = currentDate.toISOString();
 
-    // Retornem el geojson amb les noves posicions generades de forma aleatòria
     console.log(geojson);
 });

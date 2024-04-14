@@ -798,21 +798,21 @@
       var popup = document.getElementById("popupVideo");
       var btnClose = document.getElementsByClassName("close")[0];
       var youtubeVideo = document.getElementById("youtubeVideo");
-      var originalSrc = youtubeVideo.src; // Guarda el src original del video
+      var originalSrc = youtubeVideo.src;
 
-      popup.style.display = "block"; // Oculta el popup por defecto
+      popup.style.display = "block"; 
 
       btnClose.onclick = function () {
         popup.style.display = "none";
-        youtubeVideo.src = ""; // Limpia el src
-        youtubeVideo.src = originalSrc; // Restablece el src para detener el video
+        youtubeVideo.src = "";
+        youtubeVideo.src = originalSrc; 
       }
 
       window.onclick = function (event) {
         if (event.target == popup) {
           popup.style.display = "none";
-          youtubeVideo.src = ""; // Limpia el src
-          youtubeVideo.src = originalSrc; // Restablece el src para detener el video
+          youtubeVideo.src = "";
+          youtubeVideo.src = originalSrc;
         }
       }
     });

@@ -513,6 +513,406 @@
                     [
                         14.2451,
                         37.03667
+                    ],
+                    [
+                        14.261012606039666,
+                        37.072118424342264
+                    ],
+                    [
+                        14.215812115105479,
+                        37.13198566117524
+                    ],
+                    [
+                        14.302137678774013,
+                        37.077060307649816
+                    ],
+                    [
+                        14.385644040903642,
+                        37.111042667705085
+                    ],
+                    [
+                        14.462245780440576,
+                        37.1827171958768
+                    ],
+                    [
+                        14.521980850026493,
+                        37.138784793599775
+                    ],
+                    [
+                        14.451489422642204,
+                        37.20472623166345
+                    ],
+                    [
+                        14.495464696428103,
+                        37.147960765383075
+                    ],
+                    [
+                        14.48837839435058,
+                        37.09519574646357
+                    ],
+                    [
+                        14.534511376859813,
+                        37.05319449911765
+                    ],
+                    [
+                        14.495526263540919,
+                        36.978379269144014
+                    ],
+                    [
+                        14.411744578222164,
+                        36.9168387697328
+                    ],
+                    [
+                        14.414256168476035,
+                        36.85195935315601
+                    ],
+                    [
+                        14.43618271912435,
+                        36.78943902799386
+                    ],
+                    [
+                        14.455262404391124,
+                        36.69326115712541
+                    ],
+                    [
+                        14.459605162277729,
+                        36.676357875059736
+                    ],
+                    [
+                        14.535702943062219,
+                        36.60722904659365
+                    ],
+                    [
+                        14.54121576075879,
+                        36.54717152477424
+                    ],
+                    [
+                        14.526694084136087,
+                        36.515072465809034
+                    ],
+                    [
+                        14.553075339666522,
+                        36.56741271045003
+                    ],
+                    [
+                        14.48421811314228,
+                        36.481421433912814
+                    ],
+                    [
+                        14.467050953675495,
+                        36.463518758562834
+                    ],
+                    [
+                        14.466115875522236,
+                        36.54946684258423
+                    ],
+                    [
+                        14.407900998507406,
+                        36.52291118061527
+                    ],
+                    [
+                        14.451798077148744,
+                        36.49922613161187
+                    ],
+                    [
+                        14.430463951620778,
+                        36.44291092249635
+                    ],
+                    [
+                        14.383641181113118,
+                        36.45015896298175
+                    ],
+                    [
+                        14.37902080195548,
+                        36.449018814403516
+                    ],
+                    [
+                        14.40185336876053,
+                        36.47747043900518
+                    ],
+                    [
+                        14.302476358330376,
+                        36.48872524351278
+                    ],
+                    [
+                        14.302292388552036,
+                        36.46898399219921
+                    ],
+                    [
+                        14.224323155824276,
+                        36.41403172733386
+                    ],
+                    [
+                        14.222474073282875,
+                        36.460094307032456
+                    ],
+                    [
+                        14.265673792857967,
+                        36.43041933866005
+                    ],
+                    [
+                        14.29399561578344,
+                        36.38753076029115
+                    ],
+                    [
+                        14.210262128843384,
+                        36.42705007921194
+                    ],
+                    [
+                        14.120857021285845,
+                        36.5067413283699
+                    ],
+                    [
+                        14.10770715682938,
+                        36.57484679323011
+                    ],
+                    [
+                        14.102192799185339,
+                        36.478351945366256
+                    ],
+                    [
+                        14.065127678560653,
+                        36.37972880048882
+                    ],
+                    [
+                        14.005008519008031,
+                        36.43922443110832
+                    ],
+                    [
+                        14.103570702208053,
+                        36.40997122597721
+                    ],
+                    [
+                        14.174177423128198,
+                        36.436031807742296
+                    ],
+                    [
+                        14.083294523183776,
+                        36.377943512451964
+                    ],
+                    [
+                        14.15020044731303,
+                        36.28113191336328
+                    ],
+                    [
+                        14.054091033980374,
+                        36.3509757070999
+                    ],
+                    [
+                        14.067300029846443,
+                        36.43004680498306
+                    ],
+                    [
+                        14.148774703273522,
+                        36.33330711813876
+                    ],
+                    [
+                        14.088950201518575,
+                        36.30561283777781
+                    ],
+                    [
+                        14.08264062472425,
+                        36.292753827120684
+                    ],
+                    [
+                        14.16262295953566,
+                        36.35926454741706
+                    ],
+                    [
+                        14.213833196217182,
+                        36.289365014265705
+                    ],
+                    [
+                        14.212124476020342,
+                        36.32123707960788
+                    ],
+                    [
+                        14.17099780884098,
+                        36.36744797492282
+                    ],
+                    [
+                        14.148709384610052,
+                        36.382475745626195
+                    ],
+                    [
+                        14.218102601283157,
+                        36.443297856772645
+                    ],
+                    [
+                        14.316599238439153,
+                        36.39535255625159
+                    ],
+                    [
+                        14.325275992785489,
+                        36.29645669037334
+                    ],
+                    [
+                        14.384505305964504,
+                        36.236596144331294
+                    ],
+                    [
+                        14.309652061981398,
+                        36.24859559569275
+                    ],
+                    [
+                        14.328342267755,
+                        36.295269777663904
+                    ],
+                    [
+                        14.266907043869493,
+                        36.26151055256061
+                    ],
+                    [
+                        14.290407150525862,
+                        36.3006145574723
+                    ],
+                    [
+                        14.353946057670411,
+                        36.32856549394208
+                    ],
+                    [
+                        14.295269341082172,
+                        36.38225963989719
+                    ],
+                    [
+                        14.282524876394087,
+                        36.32224104714582
+                    ],
+                    [
+                        14.200132809733518,
+                        36.26735078157371
+                    ],
+                    [
+                        14.11923879755012,
+                        36.21182798430321
+                    ],
+                    [
+                        14.075787608863317,
+                        36.18535707266249
+                    ],
+                    [
+                        14.171838772882596,
+                        36.161969913668486
+                    ],
+                    [
+                        14.21325109155858,
+                        36.21673807951858
+                    ],
+                    [
+                        14.226106184585735,
+                        36.2254692532624
+                    ],
+                    [
+                        14.30168378897698,
+                        36.13417363101872
+                    ],
+                    [
+                        14.377766610251784,
+                        36.19762447361933
+                    ],
+                    [
+                        14.355857868689654,
+                        36.15087856428763
+                    ],
+                    [
+                        14.419053578510626,
+                        36.17296486830476
+                    ],
+                    [
+                        14.484123323412929,
+                        36.25607290366562
+                    ],
+                    [
+                        14.56647159640247,
+                        36.32034220602356
+                    ],
+                    [
+                        14.596436787127537,
+                        36.319004040530686
+                    ],
+                    [
+                        14.689596624096117,
+                        36.33606897678194
+                    ],
+                    [
+                        14.762342678760888,
+                        36.339282737686425
+                    ],
+                    [
+                        14.72359361098783,
+                        36.41394936952032
+                    ],
+                    [
+                        14.774714012747845,
+                        36.414934254385244
+                    ],
+                    [
+                        14.81744249206173,
+                        36.345381890076
+                    ],
+                    [
+                        14.913841319486183,
+                        36.35960389233692
+                    ],
+                    [
+                        14.940111246023235,
+                        36.421026756664446
+                    ],
+                    [
+                        14.973134871425723,
+                        36.36348937618847
+                    ],
+                    [
+                        14.919139374297309,
+                        36.29231858653082
+                    ],
+                    [
+                        14.96115137208518,
+                        36.27394773078864
+                    ],
+                    [
+                        14.997201566964105,
+                        36.34889525507653
+                    ],
+                    [
+                        14.898027943111664,
+                        36.265678740330195
+                    ],
+                    [
+                        14.955097302004289,
+                        36.302484530565806
+                    ],
+                    [
+                        14.949460766120541,
+                        36.250188377400626
+                    ],
+                    [
+                        14.939124706978385,
+                        36.2064551871922
+                    ],
+                    [
+                        14.909965049747782,
+                        36.24594845073331
+                    ],
+                    [
+                        14.913269143094912,
+                        36.226204618244545
+                    ],
+                    [
+                        14.98070077948024,
+                        36.22625123825604
+                    ],
+                    [
+                        14.909922390984347,
+                        36.285203322179974
+                    ],
+                    [
+                        14.99738261575644,
+                        36.28377365860246
+                    ],
+                    [
+                        14.93010487048605,
+                        36.19693673652704
                     ]
                 ]
             },
@@ -2069,6 +2469,1507 @@
             "properties": {
                 "description": "\n\t\t\t\t\t\t\t\t\t\t<h2>Tortuga: Godzilla</h2>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<br/><b>Latitude</b> : 37.03563\n\t\t\t\t\t\t\t\t\t\t<br/><b>Longitude</b> : 14.25268\n\t\t\t\t\t\t\t\t\t\t<br/><b>Date</b> : 09-19-2022 18:54:35\n\t\t\t\t\t\t\t\t\t\t<br/><b>Location class<b> : 1\n\t\t\t\t\t\t\t\t\t"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.261012606039666,
+                    37.072118424342264
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-15T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.215812115105479,
+                    37.13198566117524
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-16T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.302137678774013,
+                    37.077060307649816
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-17T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.385644040903642,
+                    37.111042667705085
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-18T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.462245780440576,
+                    37.1827171958768
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-19T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.521980850026493,
+                    37.138784793599775
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-20T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.451489422642204,
+                    37.20472623166345
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-21T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.495464696428103,
+                    37.147960765383075
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-22T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48837839435058,
+                    37.09519574646357
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-23T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.534511376859813,
+                    37.05319449911765
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-24T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.495526263540919,
+                    36.978379269144014
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-25T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.411744578222164,
+                    36.9168387697328
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-26T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.414256168476035,
+                    36.85195935315601
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-27T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43618271912435,
+                    36.78943902799386
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-28T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.455262404391124,
+                    36.69326115712541
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-29T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.459605162277729,
+                    36.676357875059736
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-04-30T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.535702943062219,
+                    36.60722904659365
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-01T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54121576075879,
+                    36.54717152477424
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-02T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526694084136087,
+                    36.515072465809034
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-03T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.553075339666522,
+                    36.56741271045003
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-04T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48421811314228,
+                    36.481421433912814
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-05T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.467050953675495,
+                    36.463518758562834
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-06T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.466115875522236,
+                    36.54946684258423
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-07T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.407900998507406,
+                    36.52291118061527
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-08T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.451798077148744,
+                    36.49922613161187
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-09T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.430463951620778,
+                    36.44291092249635
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-10T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.383641181113118,
+                    36.45015896298175
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-11T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37902080195548,
+                    36.449018814403516
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-12T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40185336876053,
+                    36.47747043900518
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-13T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.302476358330376,
+                    36.48872524351278
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-14T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.302292388552036,
+                    36.46898399219921
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-15T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.224323155824276,
+                    36.41403172733386
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-16T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.222474073282875,
+                    36.460094307032456
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-17T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.265673792857967,
+                    36.43041933866005
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-18T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29399561578344,
+                    36.38753076029115
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-19T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.210262128843384,
+                    36.42705007921194
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-20T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.120857021285845,
+                    36.5067413283699
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-21T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10770715682938,
+                    36.57484679323011
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-22T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.102192799185339,
+                    36.478351945366256
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-23T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.065127678560653,
+                    36.37972880048882
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-24T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.005008519008031,
+                    36.43922443110832
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-25T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.103570702208053,
+                    36.40997122597721
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-26T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.174177423128198,
+                    36.436031807742296
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-27T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.083294523183776,
+                    36.377943512451964
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-28T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15020044731303,
+                    36.28113191336328
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-29T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.054091033980374,
+                    36.3509757070999
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-30T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.067300029846443,
+                    36.43004680498306
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-05-31T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.148774703273522,
+                    36.33330711813876
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-01T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.088950201518575,
+                    36.30561283777781
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-02T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08264062472425,
+                    36.292753827120684
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-03T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16262295953566,
+                    36.35926454741706
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-04T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.213833196217182,
+                    36.289365014265705
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-05T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.212124476020342,
+                    36.32123707960788
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-06T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17099780884098,
+                    36.36744797492282
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-07T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.148709384610052,
+                    36.382475745626195
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-08T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.218102601283157,
+                    36.443297856772645
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-09T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.316599238439153,
+                    36.39535255625159
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-10T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.325275992785489,
+                    36.29645669037334
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-11T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.384505305964504,
+                    36.236596144331294
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-12T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.309652061981398,
+                    36.24859559569275
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-13T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.328342267755,
+                    36.295269777663904
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-14T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.266907043869493,
+                    36.26151055256061
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-15T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.290407150525862,
+                    36.3006145574723
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-16T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.353946057670411,
+                    36.32856549394208
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-17T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.295269341082172,
+                    36.38225963989719
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-18T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.282524876394087,
+                    36.32224104714582
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-19T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.200132809733518,
+                    36.26735078157371
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-20T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11923879755012,
+                    36.21182798430321
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-21T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.075787608863317,
+                    36.18535707266249
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-22T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.171838772882596,
+                    36.161969913668486
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-23T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21325109155858,
+                    36.21673807951858
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-24T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.226106184585735,
+                    36.2254692532624
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-25T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30168378897698,
+                    36.13417363101872
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-26T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.377766610251784,
+                    36.19762447361933
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-27T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.355857868689654,
+                    36.15087856428763
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-28T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.419053578510626,
+                    36.17296486830476
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-29T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.484123323412929,
+                    36.25607290366562
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-06-30T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56647159640247,
+                    36.32034220602356
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-01T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.596436787127537,
+                    36.319004040530686
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-02T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.689596624096117,
+                    36.33606897678194
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-03T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.762342678760888,
+                    36.339282737686425
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-04T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72359361098783,
+                    36.41394936952032
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-05T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.774714012747845,
+                    36.414934254385244
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-06T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81744249206173,
+                    36.345381890076
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-07T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.913841319486183,
+                    36.35960389233692
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-08T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.940111246023235,
+                    36.421026756664446
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-09T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.973134871425723,
+                    36.36348937618847
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-10T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.919139374297309,
+                    36.29231858653082
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-11T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96115137208518,
+                    36.27394773078864
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-12T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.997201566964105,
+                    36.34889525507653
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-13T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898027943111664,
+                    36.265678740330195
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-14T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.955097302004289,
+                    36.302484530565806
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-15T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.949460766120541,
+                    36.250188377400626
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-16T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.939124706978385,
+                    36.2064551871922
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-17T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.909965049747782,
+                    36.24594845073331
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-18T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.913269143094912,
+                    36.226204618244545
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-19T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98070077948024,
+                    36.22625123825604
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-20T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.909922390984347,
+                    36.285203322179974
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-21T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99738261575644,
+                    36.28377365860246
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-22T11:49:00.908Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93010487048605,
+                    36.19693673652704
+                ]
+            },
+            "properties": {
+                "name": "GODZILLA",
+                "description": "Posición actualizada",
+                "timestamp": "2024-07-23T11:49:00.908Z"
+            }
         }
-    ]
+    ],
+    "timestamp": "2024-07-23T11:49:00.908Z"
 }
