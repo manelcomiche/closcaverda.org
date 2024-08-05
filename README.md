@@ -26,7 +26,7 @@ Si tens alguna pregunta, suggeriment o vols saber més sobre com pots implicar-t
 
 ## Reconeixements 🏆
 
-Aquest projecte no seria possible sense l'esforç i dedicació de tot l'equip de Closcaverda, així com la generositat de la fundació CRAM cedint-nos les seves dades de tortugues. Un agraïment especial al nostre membre Manel Comiche, per la seva inestimable contribució en disseny i programació.
+Aquest projecte no seria possible sense l'esforç i dedicació de tot l'equip de Closcaverda, així com la generositat de la fundació CRAM cedint-nos les seves dades de tortugues. Un agraïment especial al nostre membre ["Manel Comiche"](https://manelcomiche.com/), per la seva inestimable contribució en disseny i programació.
 
 ## The Challenge
 

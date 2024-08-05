@@ -1,4 +1,4 @@
-const filePath = './assets/tracking/godzilla.geojson';
+const filePath = './assets/tracking/sis.geojson';
 
 function calculateNewPosition(lastPosition) {
     const latMove = (Math.random() * 0.2 - 0.1);
@@ -20,7 +20,7 @@ fetch(filePath).then(function (response) {
     let lastPosition = geojson.features[geojson.features.length - 1].geometry.coordinates;
     let currentDate = new Date();
 
-    for (let i = 0; i < 100; i++) {
+    for (let i = 0; i < 500; i++) {
         const newPosition = calculateNewPosition(lastPosition);
 
         currentDate.setDate(currentDate.getDate() + 1);
