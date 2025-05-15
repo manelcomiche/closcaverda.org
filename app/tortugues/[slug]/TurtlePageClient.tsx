@@ -11,8 +11,8 @@ interface PageProps {
   }
 }
 
-export default async function TurtlePageClient({ params }: PageProps) {
-  const { slug } = await params
+export default function TurtlePageClient({ params }: PageProps) {
+  const { slug } = params
   const turtle = turtles.find((t) => t.slug === slug)
 
   if (!turtle) { notFound() }
@@ -25,3 +25,4 @@ export default async function TurtlePageClient({ params }: PageProps) {
     </div>
   )
 }
+
