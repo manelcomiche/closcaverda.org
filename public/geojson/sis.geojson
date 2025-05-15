@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2521, 41.1146]
+      },
+      "properties": {
+        "timestamp": "2014-10-30T10:00:00Z",
+        "description": "Trobada del niu - Platja Llarga de Tarragona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2721, 41.1346]
+      },
+      "properties": {
+        "timestamp": "2014-11-15T10:00:00Z",
+        "description": "Trasllat a l'Estació Biològica del Canal Vell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2921, 41.1546]
+      },
+      "properties": {
+        "timestamp": "2015-01-20T10:00:00Z",
+        "description": "Seguiment de creixement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3121, 41.1746]
+      },
+      "properties": {
+        "timestamp": "2015-03-25T10:00:00Z",
+        "description": "Seguiment de creixement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3321, 41.1946]
+      },
+      "properties": {
+        "timestamp": "2015-06-16T10:00:00Z",
+        "description": "Trasllat al centre CRAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3521, 41.2146]
+      },
+      "properties": {
+        "timestamp": "2015-09-01T10:00:00Z",
+        "description": "Inici de rehabilitació d'aletes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3721, 41.2346]
+      },
+      "properties": {
+        "timestamp": "2015-12-15T10:00:00Z",
+        "description": "Avaluació de progrés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3921, 41.2546]
+      },
+      "properties": {
+        "timestamp": "2016-03-20T10:00:00Z",
+        "description": "Avaluació de progrés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4121, 41.2746]
+      },
+      "properties": {
+        "timestamp": "2016-06-25T10:00:00Z",
+        "description": "Avaluació de progrés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4321, 41.2946]
+      },
+      "properties": {
+        "timestamp": "2016-09-30T10:00:00Z",
+        "description": "Avaluació de progrés"
+      }
+    }
+  ]
+}

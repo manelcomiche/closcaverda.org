@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2521, 41.0546]
+      },
+      "properties": {
+        "timestamp": "2022-05-10T10:00:00Z",
+        "description": "Punt de rescat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2721, 41.0746]
+      },
+      "properties": {
+        "timestamp": "2022-06-15T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.2921, 41.0946]
+      },
+      "properties": {
+        "timestamp": "2022-07-20T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3121, 41.1146]
+      },
+      "properties": {
+        "timestamp": "2022-08-25T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3321, 41.1346]
+      },
+      "properties": {
+        "timestamp": "2022-09-30T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3521, 41.1546]
+      },
+      "properties": {
+        "timestamp": "2022-11-05T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3721, 41.1746]
+      },
+      "properties": {
+        "timestamp": "2022-12-10T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.3921, 41.1946]
+      },
+      "properties": {
+        "timestamp": "2023-01-15T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4121, 41.2146]
+      },
+      "properties": {
+        "timestamp": "2023-02-20T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.4321, 41.2346]
+      },
+      "properties": {
+        "timestamp": "2023-03-25T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    }
+  ]
+}

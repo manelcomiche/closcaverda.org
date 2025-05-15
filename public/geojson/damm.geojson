@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7021, 40.7146]
+      },
+      "properties": {
+        "timestamp": "2009-11-25T10:00:00Z",
+        "description": "Punt de rescat - Amposta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7221, 40.7346]
+      },
+      "properties": {
+        "timestamp": "2009-12-15T10:00:00Z",
+        "description": "Trasllat al centre CRAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7421, 40.7546]
+      },
+      "properties": {
+        "timestamp": "2010-01-20T10:00:00Z",
+        "description": "Inici de tractament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7621, 40.7746]
+      },
+      "properties": {
+        "timestamp": "2010-02-25T10:00:00Z",
+        "description": "Avaluació de la visió"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7821, 40.7946]
+      },
+      "properties": {
+        "timestamp": "2010-03-30T10:00:00Z",
+        "description": "Decisió de residència permanent"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6021, 40.6146]
+      },
+      "properties": {
+        "timestamp": "2024-01-17T10:00:00Z",
+        "description": "Punt de rescat - La Ràpita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6221, 40.6346]
+      },
+      "properties": {
+        "timestamp": "2024-01-25T10:00:00Z",
+        "description": "Trasllat al centre CRAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6421, 40.6546]
+      },
+      "properties": {
+        "timestamp": "2024-02-05T10:00:00Z",
+        "description": "Inici d'alimentació autònoma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6621, 40.6746]
+      },
+      "properties": {
+        "timestamp": "2024-02-15T10:00:00Z",
+        "description": "Proves analítiques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.6821, 40.6946]
+      },
+      "properties": {
+        "timestamp": "2024-03-01T10:00:00Z",
+        "description": "Avaluació per a possible alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7021, 40.7146]
+      },
+      "properties": {
+        "timestamp": "2024-03-15T10:00:00Z",
+        "description": "Preparació per a alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7221, 40.7346]
+      },
+      "properties": {
+        "timestamp": "2024-04-01T10:00:00Z",
+        "description": "Alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7421, 40.7546]
+      },
+      "properties": {
+        "timestamp": "2024-04-15T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.7621, 40.7746]
+      },
+      "properties": {
+        "timestamp": "2024-05-01T10:00:00Z",
+        "description": "Seguiment després de l'alliberament"
+      }
+    }
+  ]
+}
