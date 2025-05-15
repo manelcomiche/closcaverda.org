@@ -8,8 +8,8 @@ interface PageProps {
   }
 }
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const { slug } = await params
+export async function generateMetadata(props: PageProps): Promise<Metadata> {
+  const { slug } = await props.params
   const turtle = turtles.find((t) => t.slug === slug)
 
   if (!turtle) {
@@ -50,9 +50,8 @@ export async function generateStaticParams() {
   return turtles.map((turtle) => ({ slug: turtle.slug }))
 }
 
-export default async function TurtlePage({ params }: PageProps) {
-  const { slug } = await params
-  const turtle = turtles.find((t) => t.slug === slug) as any;
+export default async function TurtlePage(props: PageProps) {
+  const { slug } = await props.params
 
-  return <TurtlePageClient params={turtle} />
+  return <TurtlePageClient params={{ slug: slug }} />
 }
