@@ -5,18 +5,11 @@ import TurtleDetail from "@/components/turtle-detail"
 import SiteHeader from "@/components/site-header"
 import SiteFooter from "@/components/site-footer"
 
-interface PageProps {
-  params: {
-    slug: string
-  }
-}
+export default function TurtlePageClient({ params }: any) {
+  const { slug } = params
+  const turtle = turtles.find((t) => t.slug === slug)
 
-export default function TurtlePageClient({ params }: PageProps) {
-  const turtle = turtles.find((t) => t.slug === params.slug)
-
-  if (!turtle) {
-    notFound()
-  }
+  if (!turtle) { notFound() }
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-green-50 to-blue-100">
@@ -26,3 +19,4 @@ export default function TurtlePageClient({ params }: PageProps) {
     </div>
   )
 }
+

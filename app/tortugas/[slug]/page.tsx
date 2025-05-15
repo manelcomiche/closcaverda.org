@@ -154,7 +154,7 @@ export default function TurtlePage() {
                     <div>
                       <h2 className="text-2xl font-bold text-green-800 mb-4">Característiques</h2>
                       <ul className="space-y-2">
-                        {turtle.characteristics.map((characteristic, index) => (
+                        {turtle.characteristics?.map((characteristic, index) => (
                           <li key={index} className="flex items-start">
                             <span className="text-green-500 mr-2">✓</span>
                             {characteristic}
