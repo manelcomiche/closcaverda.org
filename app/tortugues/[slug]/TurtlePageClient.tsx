@@ -11,12 +11,11 @@ interface PageProps {
   }
 }
 
-export default function TurtlePageClient({ params }: PageProps) {
-  const turtle = turtles.find((t) => t.slug === params.slug)
+export default async function TurtlePageClient({ params }: PageProps) {
+  const { slug } = await params
+  const turtle = turtles.find((t) => t.slug === slug)
 
-  if (!turtle) {
-    notFound()
-  }
+  if (!turtle) { notFound() }
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-green-50 to-blue-100">
