@@ -13,7 +13,8 @@ export interface Turtle {
   image: string
   imageGallery: string[]
   lastUpdate?: string
-  batteryLife?: string
+  batteryLife?: string,
+  releaseDate?: string
 }
 
 export const turtles: Turtle[] = [
