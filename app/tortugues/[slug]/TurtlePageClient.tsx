@@ -5,13 +5,7 @@ import TurtleDetail from "@/components/turtle-detail"
 import SiteHeader from "@/components/site-header"
 import SiteFooter from "@/components/site-footer"
 
-interface PageProps {
-  params: {
-    slug: string
-  }
-}
-
-export default function TurtlePageClient({ params }: PageProps) {
+export default function TurtlePageClient({ params }: any) {
   const { slug } = params
   const turtle = turtles.find((t) => t.slug === slug)
 
