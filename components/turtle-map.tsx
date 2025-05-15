@@ -108,7 +108,7 @@ export default function TurtleMap({ turtleName }: TurtleMapProps) {
                   coordinates: lineCoordinates,
                 },
                 properties: {},
-              }
+              } as any
 
               L.geoJSON(newLineString).addTo(mapInstanceRef.current)
             }
