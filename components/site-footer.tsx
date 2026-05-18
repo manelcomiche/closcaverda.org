@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { Instagram } from "lucide-react"
+import { InstagramIcon } from "./icons/InstagramIcon"
 
 export default function SiteFooter() {
   return (
@@ -48,7 +48,7 @@ export default function SiteFooter() {
                 className="hover:text-green-300 transition-colors flex items-center gap-2"
                 aria-label="Instagram"
               >
-                <Instagram className="h-5 w-5" />
+                <InstagramIcon className="h-5 w-5" />
                 <span>@closcaverda</span>
               </a>
             </div>
