@@ -4,7 +4,7 @@ import type React from "react"
 
 import { useEffect, useRef } from "react"
 import { X } from "lucide-react"
-import { motion, AnimatePresence } from "framer-motion"
+import { motion } from "framer-motion"
 
 interface YoutubePopupProps {
   videoId: string
@@ -13,6 +13,7 @@ interface YoutubePopupProps {
 
 export default function YoutubePopup({ videoId, onClose }: YoutubePopupProps) {
   const overlayRef = useRef<HTMLDivElement>(null)
+  const closeRef = useRef<HTMLButtonElement>(null)
 
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
@@ -23,10 +24,11 @@ export default function YoutubePopup({ videoId, onClose }: YoutubePopupProps) {
 
     document.addEventListener("keydown", handleEscape)
     document.body.style.overflow = "hidden"
+    closeRef.current?.focus()
 
     return () => {
       document.removeEventListener("keydown", handleEscape)
-      document.body.style.overflow = "auto"
+      document.body.style.overflow = ""
     }
   }, [onClose])
 
@@ -37,57 +39,41 @@ export default function YoutubePopup({ videoId, onClose }: YoutubePopupProps) {
   }
 
   return (
-    <AnimatePresence>
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="on-dark fixed inset-0 z-[100] flex items-center justify-center bg-posidonia/85 p-4"
+      onClick={handleOverlayClick}
+      ref={overlayRef}
+      role="dialog"
+      aria-modal="true"
+      aria-label="Vídeo de presentació de Closcaverda"
+    >
       <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        exit={{ opacity: 0 }}
-        className="fixed inset-0 z-[100] flex items-center justify-center bg-black/70 p-4"
-        onClick={handleOverlayClick}
-        ref={overlayRef}
+        initial={{ scale: 0.96, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ type: "spring", damping: 25, stiffness: 300 }}
+        className="relative w-full max-w-4xl"
       >
-        <motion.div
-          initial={{ scale: 0.9, opacity: 0 }}
-          animate={{ scale: 1, opacity: 1 }}
-          exit={{ scale: 0.9, opacity: 0 }}
-          transition={{ type: "spring", damping: 25, stiffness: 300 }}
-          className="relative bg-white rounded-xl overflow-hidden shadow-2xl max-w-3xl w-full mx-4 max-h-[90vh] flex flex-col"
+        <button
+          ref={closeRef}
+          onClick={onClose}
+          className="absolute -top-12 right-0 inline-flex items-center gap-2 text-escuma font-semibold"
         >
-          <div className="absolute top-2 right-2 z-10">
-            <button
-              onClick={onClose}
-              className="bg-black/50 hover:bg-black/70 text-white rounded-full p-2 transition-colors"
-            >
-              <X className="h-5 w-5" />
-              <span className="sr-only">Close</span>
-            </button>
-          </div>
-
-          <div className="p-4 bg-green-600 text-white">
-            <h3 className="text-xl font-bold">Benvinguts a Closcaverda</h3>
-            <p className="text-green-100">Descobreix la nostra missió per protegir les tortugues marines</p>
-          </div>
-
-          <div className="aspect-video flex-1 min-h-0">
-            <iframe
-              width="100%"
-              height="100%"
-              src={`https://www.youtube.com/embed/${videoId}?autoplay=1`}
-              title="YouTube video player"
-              frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="w-full h-full"
-            ></iframe>
-          </div>
-
-          <div className="p-4 bg-gray-50 border-t">
-            <p className="text-sm text-gray-600">
-              Gràcies per visitar la nostra pàgina. Junts podem fer la diferència!
-            </p>
-          </div>
-        </motion.div>
+          Tanca <X className="h-5 w-5" />
+        </button>
+        <div className="aspect-video overflow-hidden rounded-lg bg-black">
+          <iframe
+            width="100%"
+            height="100%"
+            src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`}
+            title="Vídeo de presentació de Closcaverda"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            className="w-full h-full"
+          ></iframe>
+        </div>
       </motion.div>
-    </AnimatePresence>
+    </motion.div>
   )
 }

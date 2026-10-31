@@ -1,137 +1,156 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import Image from "next/image"
-import { Button } from "@/components/ui/button"
 import { turtles } from "@/data/turtles"
+import { turtleImages } from "@/data/turtle-images"
 import SiteHeader from "@/components/site-header"
 import SiteFooter from "@/components/site-footer"
+import JsonLd from "@/components/json-ld"
+import Breadcrumbs, { breadcrumbSchema } from "@/components/breadcrumbs"
+import { site, mailto, social } from "@/lib/site"
+import { sized } from "@/lib/images"
+
+const description =
+  "Coneix les tortugues babaues (Caretta caretta) rescatades per la Fundació CRAM, segueix el seu recorregut pel Mediterrani i apadrina-les per 50 € l'any."
+
+const crumbs = [
+  { name: "Inici", path: "/" },
+  { name: "Tortugues", path: "/tortugues" },
+]
 
 export const metadata: Metadata = {
-  title: "Apadrina una Tortuga Marina | Closcaverda",
-  description:
-    "Contribueix a la conservació de les tortugues marines apadrinant una de les nostres tortugues geolocalitzades. Segueix el seu recorregut i ajuda a protegir aquesta espècie en perill.",
+  title: "Apadrina una tortuga marina rescatada pel CRAM",
+  description,
   keywords: [
-    "apadrinament tortugues",
-    "tortugues marines",
-    "conservació marina",
-    "CRAM",
+    "apadrinar una tortuga",
+    "apadrinament tortugues marines",
+    "tortuga babaua",
+    "Caretta caretta",
+    "seguiment de tortugues",
+    "Fundació CRAM",
     "Closcaverda",
-    "seguiment tortugues",
+  ],
+  alternates: { canonical: "/tortugues" },
+  ...social({ title: "Apadrina una tortuga marina", description, path: "/tortugues" }),
+}
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      name: "Tortugues marines per apadrinar",
+      url: `${site.url}/tortugues`,
+      description,
+      inLanguage: "ca",
+      about: { "@type": "Taxon", name: "Caretta caretta", alternateName: "Tortuga babaua", taxonRank: "species" },
+      mainEntity: {
+        "@type": "ItemList",
+        itemListElement: turtles.map((turtle, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          url: `${site.url}/tortugues/${turtle.slug}`,
+          name: turtle.name,
+        })),
+      },
+    },
+    breadcrumbSchema(crumbs),
   ],
 }
 
+const reasons = [
+  "Rescat i rehabilitació d'exemplars ferits",
+  "Seguiment científic amb transmissors per satèl·lit",
+  "Programes d'educació i conscienciació",
+  "Protecció de platges de nidificació",
+]
+
 export default function TurtlesPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-green-50 to-blue-100">
+    <>
+      <JsonLd data={structuredData} />
       <SiteHeader />
-
-      {/* Hero Section */}
-      <section className="py-20 bg-[#768350] text-white">
-        <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">Apadrina una Tortuga Marina</h1>
-            <p className="text-xl mb-8">
-              Ajuda'ns a protegir aquestes meravelloses criatures i contribueix a la conservació del medi marí
-            </p>
-            <Button className="bg-white text-[#768350] hover:bg-green-100">
-              <a href="#tortugues">Veure les tortugues</a>
-            </Button>
-          </div>
-        </div>
-      </section>
-
-      {/* Info Section */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto">
-            <div className="grid md:grid-cols-2 gap-12 items-center">
-              <div>
-                <h2 className="text-3xl font-bold text-[#768350] mb-6">Per què apadrinar?</h2>
-                <p className="text-slate-600 mb-4">
-                  Les tortugues marines són espècies en perill d'extinció que s'enfronten a nombroses amenaces: pèrdua
-                  d'hàbitat, contaminació, canvi climàtic i interaccions amb activitats humanes.
-                </p>
-                <p className="text-slate-600 mb-4">
-                  Apadrinar una tortuga marina és una forma directa de contribuir a la seva conservació. Els fons
-                  recaptats es destinen a:
-                </p>
-                <ul className="space-y-2 mb-6">
-                  <li className="flex items-start">
-                    <span className="text-[#768350] mr-2">✓</span>
-                    Rescat i rehabilitació d'exemplars ferits
-                  </li>
-                  <li className="flex items-start">
-                    <span className="text-[#768350] mr-2">✓</span>
-                    Seguiment científic mitjançant dispositius GPS
-                  </li>
-                  <li className="flex items-start">
-                    <span className="text-[#768350] mr-2">✓</span>
-                    Programes d'educació i conscienciació
-                  </li>
-                  <li className="flex items-start">
-                    <span className="text-[#768350] mr-2">✓</span>
-                    Protecció de platges de nidificació
-                  </li>
-                </ul>
-              </div>
-              <div className="relative h-80 rounded-lg overflow-hidden">
-                <Image src="/logoCRAM.svg" alt="Conservació de tortugues marines" fill className="object-contain p-4" />
-              </div>
+      <main id="contingut">
+        <section className="mx-auto max-w-7xl px-4 sm:px-6 pt-10 sm:pt-14 pb-16">
+          <Breadcrumbs items={crumbs} />
+          <div className="mt-6 grid gap-8 lg:grid-cols-[1.4fr_1fr] lg:items-end">
+            <h1 className="display text-[clamp(2.75rem,7vw,6rem)] max-w-[13ch]">Apadrina una tortuga marina</h1>
+            <div className="lg:pb-2">
+              <p className="text-lg text-pedra max-w-[46ch]">
+                Aquestes {turtles.length} tortugues babaues han passat pel centre de recuperació de la{" "}
+                {site.partner.name}. Llegeix la seva història i segueix el recorregut que van enviar els seus transmissors.
+              </p>
+              <p className="mt-3 font-semibold">L&apos;apadrinament costa 50 € l&apos;any.</p>
             </div>
           </div>
-        </div>
-      </section>
+        </section>
 
-      {/* Turtles Section */}
-      <section id="tortugues" className="py-16 bg-green-50">
-        <div className="container mx-auto px-4">
-          <div className="max-w-6xl mx-auto">
-            <h2 className="text-3xl font-bold text-center text-[#768350] mb-12">Les nostres tortugues</h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {turtles.map((turtle) => (
-                <div
-                  key={turtle.slug}
-                  className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow"
-                >
-                  <div className="relative h-56">
-                    <Image
-                      src={turtle.image || "/placeholder.svg?height=300&width=400&query=sea turtle"}
-                      alt={turtle.name}
-                      fill
-                      className="object-cover"
-                    />
-                  </div>
-                  <div className="p-6">
-                    <h3 className="text-xl font-bold text-[#768350] mb-2">{turtle.name}</h3>
-                    <p className="text-sm text-slate-500 mb-3">{turtle.species}</p>
-                    <p className="text-slate-600 mb-4 line-clamp-3">{turtle.shortDescription}</p>
-                    <Button className="w-full bg-[#768350] hover:bg-green-700">
-                      <Link href={`/tortugues/${turtle.slug}`}>Conèixer més</Link>
-                    </Button>
-                  </div>
+        <section aria-labelledby="llista-titol" className="mx-auto max-w-7xl px-4 sm:px-6 pb-24">
+          <h2 id="llista-titol" className="sr-only">
+            Les nostres tortugues
+          </h2>
+          <ul className="grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
+            {turtles.map((turtle, i) => (
+              <li key={turtle.slug} className="group relative">
+                <div className="relative aspect-[4/3] overflow-hidden rounded-lg bg-posidonia/10">
+                  <Image
+                    src={sized(turtleImages[turtle.slug as keyof typeof turtleImages]?.[0] || turtle.image, 720)}
+                    alt={`Tortuga marina ${turtle.name} (${turtle.species})`}
+                    fill
+                    priority={i < 3}
+                    sizes="(min-width: 1024px) 30vw, (min-width: 640px) 45vw, 100vw"
+                    className="object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
+                  />
                 </div>
-              ))}
+                <div className="mt-4 flex items-baseline justify-between gap-4">
+                  <h3 className="heading text-3xl">
+                    <Link
+                      href={`/tortugues/${turtle.slug}`}
+                      className="after:absolute after:inset-0 hover:underline underline-offset-4"
+                    >
+                      {turtle.name}
+                    </Link>
+                  </h3>
+                  {turtle.status && <span className="text-sm font-semibold text-turquesa">{turtle.status}</span>}
+                </div>
+                <p className="text-sm italic text-pedra">{turtle.species}</p>
+                <p className="mt-3 text-pedra line-clamp-3">{turtle.shortDescription}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <section aria-labelledby="perque-titol" className="on-dark bg-posidonia text-escuma">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 py-20 grid gap-12 lg:grid-cols-2 lg:gap-20">
+            <div>
+              <h2 id="perque-titol" className="heading text-4xl sm:text-5xl max-w-[16ch]">
+                Per què apadrinar una tortuga?
+              </h2>
+              <p className="mt-5 text-lg text-escuma/80 max-w-[52ch]">
+                Les tortugues marines estan amenaçades per la pèrdua d&apos;hàbitat, la contaminació, el canvi climàtic
+                i les xarxes de pesca. Apadrinar-ne una és una manera directa d&apos;ajudar-les.
+              </p>
+              <a
+                href={mailto("Apadrinament de tortuga")}
+                className="mt-8 inline-block rounded-full bg-casc px-6 py-3 text-lg font-semibold text-posidonia hover:bg-[#ffe066] transition-colors"
+              >
+                Apadrina per correu
+              </a>
+            </div>
+            <div>
+              <h3 className="text-xl font-bold">Els diners es destinen a</h3>
+              <ul className="mt-4 divide-y divide-escuma/15 border-y border-escuma/15">
+                {reasons.map((reason) => (
+                  <li key={reason} className="py-4 text-lg">
+                    {reason}
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
-        </div>
-      </section>
-
-      {/* CTA Section */}
-      <section className="py-16 bg-blue-600 text-white">
-        <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl font-bold mb-6">Fes un pas per la conservació marina</h2>
-            <p className="text-xl mb-8">
-              Apadrina una tortuga avui mateix i forma part d'un projecte que marca la diferència
-            </p>
-            <Button className="bg-white text-blue-600 hover:bg-blue-50">
-              <a href="mailto:hola@closcaverda.org?subject=Apadrinament de tortuga">Contacta'ns</a>
-            </Button>
-          </div>
-        </div>
-      </section>
-
+        </section>
+      </main>
       <SiteFooter />
-    </div>
+    </>
   )
 }
