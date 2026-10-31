@@ -5,3 +5,7 @@ allowBuilds:
 # Every published minimatch below 11.0.1 has GHSA-g3hv-75wg-m249; it only reaches us through ESLint plugins.
 overrides:
   minimatch: ^11.0.3
+
+# Supply-chain cooldown: refuse versions published less than 24h ago
+# (pnpm >= 10.16; pnpm 11 defaults to this). Renovate adds a 7-day cooldown on top.
+minimumReleaseAge: 1440
