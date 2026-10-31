@@ -1,0 +1,7 @@
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+
+# Every published minimatch below 11.0.1 has GHSA-g3hv-75wg-m249; it only reaches us through ESLint plugins.
+overrides:
+  minimatch: ^11.0.3
