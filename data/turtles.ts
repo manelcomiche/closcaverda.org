@@ -12,8 +12,6 @@ export interface Turtle {
   currentStatus?: string
   image: string
   imageGallery: string[]
-  lastUpdate?: string
-  batteryLife?: string,
   releaseDate?: string
 }
 
@@ -54,8 +52,6 @@ Complot ha demostrat que és una tortuga molt forta i amb moltes ganes de viure 
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2023/01/tortuga-complot-3.jpg",
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2023/01/tortuga-complot-6.jpg",
     ],
-    lastUpdate: "10/05/2024",
-    batteryLife: "aproximadament 1 any més",
   },
   {
     name: "Damm",
@@ -86,7 +82,6 @@ Aquestes tortugues reben les visites de la gent que ve al CRAM. I algunes d'elle
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2017/01/tortuga-damm-2.jpg",
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2017/01/tortuga-damm-3.jpg",
     ],
-    lastUpdate: "05/05/2024",
   },
   {
     name: "Daura",
@@ -119,8 +114,6 @@ Daura ha demostrat que és una tortuga molt forta i amb moltes ganes de viure i 
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/03/DAURA-INGRESO-2.1200-400x300.jpg",
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/03/DAURA-INGRESO-3.1200-400x300.jpg",
     ],
-    lastUpdate: "08/05/2024",
-    batteryLife: "aproximadament 10 mesos més",
   },
   {
     name: "Godzilla",
@@ -150,8 +143,6 @@ Actualment, s'està a l'espera dels resultats de les seves últimes proves anal�
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/04/tortugas-maria-niki-tomas-2-800x600.jpg",
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/04/tortugas-maria-niki-tomas-3-800x600.jpg",
     ],
-    lastUpdate: "01/05/2024",
-    batteryLife: "aproximadament 11 mesos més",
   },
   {
     name: "Maria",
@@ -186,8 +177,6 @@ L'assistència a aquests dos exemplars de tortuga marina s'ha realitzat en el ma
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/08/MARIA2.jpg",
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/08/MARIA4-800x600.jpg",
     ],
-    lastUpdate: "03/05/2024",
-    batteryLife: "aproximadament 9 mesos més",
   },
   {
     name: "Sis",
@@ -222,7 +211,5 @@ Amb aquest procés de recuperació es pretén que aviat puguin recuperar la mobi
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/07/tortuga-duna-5.jpg",
       "//wsrv.nl/?url=https://cram.org/wp-content/uploads/2022/07/tortuga-duna-3.jpg",
     ],
-    lastUpdate: "06/05/2024",
-    batteryLife: "aproximadament 8 mesos més",
   },
 ]

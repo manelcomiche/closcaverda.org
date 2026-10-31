@@ -20,7 +20,16 @@ const config = {
       },
     },
     extend: {
+      fontFamily: {
+        sans: ["var(--font-bricolage)", "system-ui", "sans-serif"],
+      },
       colors: {
+        posidonia: "var(--posidonia)",
+        closca: "var(--closca)",
+        escuma: "rgb(242 245 236 / <alpha-value>)",
+        turquesa: "var(--turquesa)",
+        casc: "var(--casc)",
+        pedra: "var(--pedra)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",

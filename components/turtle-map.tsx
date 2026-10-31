@@ -6,153 +6,108 @@ interface TurtleMapProps {
   turtleName: string
 }
 
+interface TrackFeature {
+  geometry: { type: string; coordinates: [number, number] }
+  properties: { timestamp: string; source: "argos" | "simulacio" }
+}
+
+const RECENT_DAYS = 120
+
+const formatDate = (iso: string) =>
+  new Intl.DateTimeFormat("ca-ES", { day: "numeric", month: "long", year: "numeric" }).format(new Date(iso))
+
 export default function TurtleMap({ turtleName }: TurtleMapProps) {
   const mapRef = useRef<HTMLDivElement>(null)
-  const mapInstanceRef = useRef<any>(null)
+  const mapInstanceRef = useRef<import("leaflet").Map | null>(null)
 
   useEffect(() => {
     if (typeof window === "undefined" || !mapRef.current) return
+    let cancelled = false
 
-    // Dynamically import Leaflet
     const loadLeaflet = async () => {
+      const L = (await import("leaflet")).default
+
+      if (!document.querySelector('link[href*="leaflet.css"]')) {
+        const link = document.createElement("link")
+        link.rel = "stylesheet"
+        link.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        document.head.appendChild(link)
+      }
+
+      if (cancelled || mapInstanceRef.current || !mapRef.current) return
+      const map = L.map(mapRef.current, { scrollWheelZoom: false })
+      mapInstanceRef.current = map
+
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: "© OpenStreetMap · Dades de seguiment: Fundació CRAM",
+      }).addTo(map)
+
       try {
-        const L = (await import("leaflet")).default
+        const response = await fetch(`/geojson/${turtleName}.geojson`)
+        if (!response.ok) throw new Error(`HTTP ${response.status}`)
+        const data: { features: TrackFeature[] } = await response.json()
 
-        // Add Leaflet CSS
-        if (!document.querySelector('link[href*="leaflet.css"]')) {
-          const link = document.createElement("link")
-          link.rel = "stylesheet"
-          link.href = "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-          document.head.appendChild(link)
+        // Only show positions up to today; the file already holds the estimated route until the end of 2027.
+        const now = Date.now()
+        const visible = data.features.filter(
+          (f) => f.geometry.type === "Point" && new Date(f.properties.timestamp).getTime() <= now,
+        )
+        const real = visible.filter((f) => f.properties.source === "argos")
+        const estimated = visible.filter((f) => f.properties.source === "simulacio")
+        const latLng = (f: TrackFeature) => [f.geometry.coordinates[1], f.geometry.coordinates[0]] as [number, number]
+
+        L.polyline(real.map(latLng), { color: "#1f7a72", weight: 3 }).addTo(map)
+        real.forEach((f) =>
+          L.circleMarker(latLng(f), { radius: 3, color: "#1f7a72", fillOpacity: 1, weight: 1 })
+            .bindTooltip(`Senyal del satèl·lit, ${formatDate(f.properties.timestamp)}`)
+            .addTo(map),
+        )
+
+        // Years of daily estimates would bury the real route, so draw only the recent stretch, joined to the
+        // last satellite fix by a faint line.
+        const recent = estimated.slice(-RECENT_DAYS)
+        if (recent.length) {
+          L.polyline([latLng(real[real.length - 1]), latLng(recent[0])], {
+            color: "#768350",
+            weight: 1.5,
+            dashArray: "1 8",
+            opacity: 0.6,
+          }).addTo(map)
+          L.polyline(recent.map(latLng), { color: "#768350", weight: 2.5, dashArray: "3 8", opacity: 0.9 }).addTo(map)
         }
 
-        // Initialize map if not already initialized
-        if (!mapInstanceRef.current && mapRef.current) {
-          mapInstanceRef.current = L.map(mapRef.current)
-
-          L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-            maxZoom: 19,
-            attribution: "© OpenStreetMap - Manel Comiche (manelcomiche.com) - Closcaverda.org",
-          }).addTo(mapInstanceRef.current)
-
-          // Load GeoJSON data
-          const geojsonUrl = `/geojson/${turtleName}.geojson`
-
-          try {
-            const response = await fetch(geojsonUrl)
-            if (!response.ok) {
-              throw new Error(`Failed to load GeoJSON: ${response.status}`)
-            }
-
-            const geojsonData = await response.json()
-
-            // Filter points by date
-            const today = new Date()
-            today.setHours(23, 59, 59, 999)
-
-            const validPoints = geojsonData.features.filter((feature: any) => {
-              if (feature.properties.timestamp) {
-                const featureDate = new Date(feature.properties.timestamp)
-                return featureDate <= today
-              }
-              return true
-            })
-
-            // Find the last valid point
-            const lastValidPointIndex = validPoints.reduce((lastIndex: number, feature: any, index: number) => {
-              return feature.geometry.type === "Point" ? index : lastIndex
-            }, -1)
-
-            // Create turtle icon
-            const turtleIcon = L.icon({
-              iconUrl: "/tortugaBlip.png",
-              iconSize: [38, 38],
-              iconAnchor: [19, 19],
-            })
-
-            // Create standard marker icon
-            const standardMarkerIcon = L.icon({
-              iconUrl:
-                "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/marker-icon-d0OiAuFomOfqzyeHNBYz2UwkhvnOTq.png",
-              iconSize: [25, 41],
-              iconAnchor: [12, 41],
-              popupAnchor: [1, -34],
-            })
-
-            // Add points to map
-            validPoints.forEach((feature: any, index: number) => {
-              if (feature.geometry.type === "Point") {
-                L.geoJSON(feature, {
-                  pointToLayer: (feature, latlng) => {
-                    if (index === lastValidPointIndex) {
-                      return L.marker(latlng, { icon: turtleIcon })
-                    } else {
-                      return L.marker(latlng, { icon: standardMarkerIcon })
-                    }
-                  },
-                }).addTo(mapInstanceRef.current)
-              }
-            })
-
-            // Create line from points
-            if (lastValidPointIndex !== -1) {
-              const lineCoordinates = validPoints
-                .slice(0, lastValidPointIndex + 1)
-                .filter((feature: any) => feature.geometry.type === "Point")
-                .map((feature: any) => feature.geometry.coordinates)
-
-              const newLineString = {
-                type: "Feature",
-                geometry: {
-                  type: "LineString",
-                  coordinates: lineCoordinates,
-                },
-                properties: {},
-              } as any
-
-              L.geoJSON(newLineString).addTo(mapInstanceRef.current)
-            }
-
-            // Center map on last valid point
-            if (lastValidPointIndex !== -1) {
-              const lastValidPoint = validPoints[lastValidPointIndex].geometry.coordinates
-              mapInstanceRef.current.setView([lastValidPoint[1], lastValidPoint[0]], 13)
-            } else {
-              // Default view if no valid points
-              mapInstanceRef.current.setView([40.4168, 3.7038], 6) // Default to Spain
-            }
-          } catch (error) {
-            console.error("Error loading GeoJSON:", error)
-
-            // Show error message on map
-            const errorDiv = L.DomUtil.create("div", "error-message")
-            errorDiv.innerHTML = `<p>No s'han pogut carregar les dades de seguiment per a ${turtleName}.</p>`
-            errorDiv.style.padding = "20px"
-            errorDiv.style.backgroundColor = "white"
-            errorDiv.style.border = "1px solid #ccc"
-            errorDiv.style.borderRadius = "4px"
-
-            const errorPopup = L.popup()
-              .setLatLng([40.4168, 3.7038]) // Default to Spain
-              .setContent(errorDiv)
-              .openOn(mapInstanceRef.current)
-
-            mapInstanceRef.current.setView([40.4168, 3.7038], 6) // Default to Spain
-          }
+        const last = estimated.at(-1) ?? real.at(-1)
+        if (last) {
+          const label =
+            last.properties.source === "argos"
+              ? `Última senyal del satèl·lit: ${formatDate(last.properties.timestamp)}`
+              : `Posició estimada: ${formatDate(last.properties.timestamp)}`
+          L.marker(latLng(last), {
+            icon: L.icon({ iconUrl: "/tortugaBlip.png", iconSize: [38, 38], iconAnchor: [19, 19] }),
+            alt: label,
+          })
+            .bindPopup(label)
+            .addTo(map)
         }
+
+        map.fitBounds(L.latLngBounds([...real, ...recent].map(latLng)), { padding: [24, 24] })
       } catch (error) {
-        console.error("Error loading Leaflet:", error)
+        console.error("Error loading GeoJSON:", error)
+        L.popup()
+          .setLatLng([40.4, 3])
+          .setContent(`No s'han pogut carregar les dades de seguiment de ${turtleName}.`)
+          .openOn(map)
+        map.setView([40.4, 3], 6)
       }
     }
 
     loadLeaflet()
 
-    // Cleanup
     return () => {
-      if (mapInstanceRef.current) {
-        mapInstanceRef.current.remove()
-        mapInstanceRef.current = null
-      }
+      cancelled = true
+      mapInstanceRef.current?.remove()
+      mapInstanceRef.current = null
     }
   }, [turtleName])
 

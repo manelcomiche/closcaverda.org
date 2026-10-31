@@ -3,48 +3,34 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
-    --primary: 74 28% 41%;
-    --primary-foreground: 210 40% 98%;
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
-    --accent: 74 28% 90%;
-    --accent-foreground: 74 28% 41%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 74 28% 41%;
-    --radius: 0.75rem;
-  }
+    /* Closcaverda palette */
+    --posidonia: #0f3a34; /* deep sea-grass: ink and dark panels */
+    --closca: #768350; /* brand olive */
+    --escuma: #f2f5ec; /* sea-foam paper */
+    --turquesa: #1f7a72; /* bead turquoise, darkened for text on paper */
+    --casc: #f4d23c; /* helmet yellow: prices and the main action */
+    --pedra: #44554f; /* secondary text */
 
-  .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
-    --primary: 74 28% 41%;
-    --primary-foreground: 222.2 47.4% 11.2%;
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 74 28% 41%;
+    --background: 84 29% 94%;
+    --foreground: 171 59% 14%;
+    --card: 0 0% 100%;
+    --card-foreground: 171 59% 14%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 171 59% 14%;
+    --primary: 171 59% 14%;
+    --primary-foreground: 84 29% 94%;
+    --secondary: 84 20% 88%;
+    --secondary-foreground: 171 59% 14%;
+    --muted: 84 20% 88%;
+    --muted-foreground: 160 11% 30%;
+    --accent: 74 28% 88%;
+    --accent-foreground: 171 59% 14%;
+    --destructive: 0 72% 45%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 84 14% 80%;
+    --input: 84 14% 80%;
+    --ring: 171 59% 14%;
+    --radius: 0.5rem;
   }
 }
 
@@ -52,29 +38,106 @@
   * {
     @apply border-border;
   }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-escuma text-posidonia antialiased;
+    font-optical-sizing: auto;
+  }
+  :focus-visible {
+    outline: 3px solid var(--posidonia);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+  .on-dark :focus-visible {
+    outline-color: var(--casc);
   }
 }
 
-/* Animaciones para elementos */
-@keyframes float {
-  0% {
-    transform: translateY(0px);
+/* Display headings: Bricolage at its condensed width and large optical size */
+.display {
+  font-weight: 800;
+  font-stretch: 78%;
+  font-variation-settings: "opsz" 96;
+  letter-spacing: -0.02em;
+  line-height: 0.92;
+}
+
+.heading {
+  font-weight: 700;
+  font-stretch: 85%;
+  font-variation-settings: "opsz" 48;
+  letter-spacing: -0.01em;
+  line-height: 1.02;
+}
+
+/* The one orchestrated moment: turtle routes draw out from the CRAM on load */
+.sea-chart-route {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: route-draw 2.6s cubic-bezier(0.3, 0.1, 0.2, 1) forwards;
+  animation-delay: calc(var(--i) * 140ms + 200ms);
+}
+.sea-chart-end,
+.sea-chart-label {
+  opacity: 0;
+  animation: route-arrive 0.5s ease-out forwards;
+  animation-delay: calc(var(--i) * 140ms + 2600ms);
+}
+
+@keyframes route-draw {
+  to {
+    stroke-dashoffset: 0;
   }
-  50% {
-    transform: translateY(-10px);
-  }
-  100% {
-    transform: translateY(0px);
+}
+@keyframes route-arrive {
+  to {
+    opacity: 1;
   }
 }
 
-.animate-float {
-  animation: float 4s ease-in-out infinite;
+/* Estimated stretch since the transmitter stopped: fainter, and it appears once the real route has drawn */
+.sea-chart-estimate {
+  opacity: 0;
+  animation: route-arrive-faint 0.8s ease-out forwards;
+  animation-delay: calc(var(--i) * 140ms + 2400ms);
+}
+@keyframes route-arrive-faint {
+  to {
+    opacity: 0.7;
+  }
 }
 
-/* Scroll behavior */
-html {
-  scroll-behavior: smooth;
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .sea-chart-route,
+  .sea-chart-end,
+  .sea-chart-label {
+    animation: none;
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+  .sea-chart-estimate {
+    animation: none;
+    opacity: 0.7;
+  }
+}
+
+/* FAQ disclosure marker */
+.faq summary::-webkit-details-marker {
+  display: none;
+}
+.faq summary::after {
+  content: "+";
+  font-weight: 400;
+  font-size: 1.75rem;
+  line-height: 1;
+  transition: transform 0.2s ease;
+}
+.faq details[open] summary::after {
+  transform: rotate(45deg);
 }

@@ -31,33 +31,29 @@ export default function TurtleGallery({ turtleName, images }: TurtleGalleryProps
   }
 
   return (
-    <div className="space-y-4">
-      <h3 className="text-xl font-bold text-[#768350]">Galeria de {turtleName}</h3>
+    <div className="space-y-6">
+      <h2 id="galeria" className="heading text-4xl sm:text-5xl">Fotos de {turtleName}</h2>
 
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
         {images.map((image, index) => (
-          <div
+          <button
+            type="button"
             key={index}
-            className="relative h-40 rounded-lg overflow-hidden cursor-pointer hover:opacity-90 transition-opacity"
+            aria-label={`Amplia la foto ${index + 1} de ${turtleName}`}
+            className="relative aspect-[4/3] rounded-lg overflow-hidden cursor-pointer bg-posidonia/10 hover:opacity-90 transition-opacity"
             onClick={() => openGallery(index)}
           >
             <Image
               src={image || "/placeholder.svg"}
-              alt={`${turtleName} - imatge ${index + 1}`}
+              alt={`Tortuga marina ${turtleName}, foto ${index + 1}`}
               fill
+              loading="lazy"
+              sizes="(min-width: 768px) 25vw, 50vw"
               className="object-cover"
             />
-          </div>
+          </button>
         ))}
       </div>
-
-      <Button
-        variant="link"
-        className="text-[#768350] hover:text-green-700 font-medium text-sm p-0"
-        onClick={() => openGallery(0)}
-      >
-        Veure totes les imatges
-      </Button>
 
       <Dialog open={open} onOpenChange={setOpen}>
         <DialogContent
