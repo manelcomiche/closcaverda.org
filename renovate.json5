@@ -1,0 +1,59 @@
+{
+  $schema: 'https://docs.renovatebot.com/renovate-schema.json',
+  extends: [
+    'config:recommended',
+    // Pin Docker base images and compose services to an immutable digest, so a
+    // re-pushed tag can never swap the image underneath a build.
+    'docker:pinDigests',
+    // Pin GitHub Actions to commit SHAs (a moved tag cannot inject code into CI).
+    'helpers:pinGitHubActionDigests',
+    // Refresh transitive dependencies in the lockfile once a week.
+    ':maintainLockFilesWeekly',
+    ':timezone(Europe/Madrid)',
+  ],
+
+  // Regular updates arrive once a week, in a quiet window.
+  schedule: ['before 7am on monday'],
+  prConcurrentLimit: 5,
+  labels: ['dependencies'],
+  rangeStrategy: 'bump',
+
+  // Supply-chain cooldown: ignore releases younger than 7 days. Most malicious
+  // npm/PyPI publishes are caught and unpublished within that window.
+  minimumReleaseAge: '7 days',
+  internalChecksFilter: 'strict',
+
+  // Security fixes skip the schedule and the cooldown and open a PR right away.
+  // Sources: GitHub Dependabot alerts (must be enabled in the repo settings) and OSV.
+  osvVulnerabilityAlerts: true,
+  vulnerabilityAlerts: {
+    enabled: true,
+    labels: ['dependencies', 'security'],
+    schedule: ['at any time'],
+    minimumReleaseAge: null,
+  },
+
+  packageRules: [
+    {
+      description: 'One PR per week for every non-major npm / Python update (0.x stays separate: minors can break there)',
+      matchCategories: ['js', 'python'],
+      matchUpdateTypes: ['minor', 'patch'],
+      matchCurrentVersion: '!/^v?0\\./',
+      groupName: 'non-major dependencies',
+      groupSlug: 'all-minor-patch',
+    },
+    {
+      description: 'Docker base images and compose services: digest refreshes (OS security patches) and patch bumps together',
+      matchDatasources: ['docker'],
+      matchUpdateTypes: ['digest', 'pinDigest', 'patch'],
+      groupName: 'docker images',
+      groupSlug: 'docker-images',
+    },
+    {
+      description: 'GitHub Actions: SHA pins and their refreshes together',
+      matchManagers: ['github-actions'],
+      groupName: 'github actions',
+      groupSlug: 'github-actions',
+    },
+  ],
+}
