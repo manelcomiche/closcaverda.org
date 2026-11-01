@@ -23,15 +23,16 @@
   minimumReleaseAge: '7 days',
   internalChecksFilter: 'strict',
 
-  // Security fixes skip the schedule and the cooldown and open a PR right away.
-  // Sources: GitHub Dependabot alerts (must be enabled in the repo settings) and OSV.
-  osvVulnerabilityAlerts: true,
-  vulnerabilityAlerts: {
-    enabled: true,
-    labels: ['dependencies', 'security'],
-    schedule: ['at any time'],
-    minimumReleaseAge: null,
-  },
+  // Security fixes are Dependabot's job (.github/dependabot.yml), so Renovate
+  // does not open security PRs of its own and the two never duplicate each other.
+  vulnerabilityAlerts: { enabled: false },
+
+  // Updates marked automerge below are merged once every check on the PR has
+  // passed. Renovate verifies the checks itself rather than through GitHub
+  // auto-merge, so this works without branch protection. Majors and 0.x minors
+  // still wait for a human (they are listed on the Dependency Dashboard).
+  platformAutomerge: false,
+  lockFileMaintenance: { automerge: true },
 
   packageRules: [
     {
@@ -41,6 +42,7 @@
       matchCurrentVersion: '!/^v?0\\./',
       groupName: 'non-major dependencies',
       groupSlug: 'all-minor-patch',
+      automerge: true,
     },
     {
       description: 'Docker base images and compose services: digest refreshes (OS security patches) and patch bumps together',
@@ -48,12 +50,27 @@
       matchUpdateTypes: ['digest', 'pinDigest', 'patch'],
       groupName: 'docker images',
       groupSlug: 'docker-images',
+      automerge: true,
     },
     {
       description: 'GitHub Actions: SHA pins and their refreshes together',
       matchManagers: ['github-actions'],
       groupName: 'github actions',
       groupSlug: 'github-actions',
+      automerge: true,
+    },
+    {
+      description: 'Major GitHub Actions bumps can change deploy workflows that PR checks never run',
+      matchManagers: ['github-actions'],
+      matchUpdateTypes: ['major'],
+      automerge: false,
+    },
+    {
+      description: '0.x patch releases are auto-merged like any other patch',
+      matchCategories: ['js', 'python'],
+      matchCurrentVersion: '/^v?0\\./',
+      matchUpdateTypes: ['patch'],
+      automerge: true,
     },
   ],
 }

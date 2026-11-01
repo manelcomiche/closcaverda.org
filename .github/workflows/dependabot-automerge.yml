@@ -1,0 +1,60 @@
+name: Dependabot auto-merge
+
+# Dependabot opens security-fix PRs only (routine version updates are Renovate's
+# job, see renovate.json5). This merges each one once every other check on the PR
+# has passed. A failed check, or a PR with no checks at all, stays open for review.
+on: pull_request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: dependabot-automerge-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  automerge:
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Wait for the other checks, then merge
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ github.event.pull_request.number }}
+          SHA: ${{ github.event.pull_request.head.sha }}
+          SELF: automerge
+        run: |
+          set -euo pipefail
+          # Give CI and Vercel time to register their checks on this commit.
+          sleep 60
+          for _ in $(seq 1 110); do
+            # Latest run per check name, ignoring this job.
+            runs=$(gh api "repos/$REPO/commits/$SHA/check-runs?per_page=100" \
+              --jq "[.check_runs[] | select(.name != \"$SELF\")] | group_by(.name) | map(max_by(.id))")
+            statuses=$(gh api "repos/$REPO/commits/$SHA/status" --jq '.statuses')
+            total=$(( $(jq length <<<"$runs") + $(jq length <<<"$statuses") ))
+            failed=$(( $(jq '[.[] | select(.status == "completed" and ((.conclusion == "success" or .conclusion == "neutral" or .conclusion == "skipped") | not))] | length' <<<"$runs") \
+              + $(jq '[.[] | select(.state == "failure" or .state == "error")] | length' <<<"$statuses") ))
+            pending=$(( $(jq '[.[] | select(.status != "completed")] | length' <<<"$runs") \
+              + $(jq '[.[] | select(.state == "pending")] | length' <<<"$statuses") ))
+            if [ "$failed" -gt 0 ]; then
+              echo "::error::$failed check(s) failed; leaving PR #$PR open for review."
+              exit 1
+            fi
+            if [ "$total" -gt 0 ] && [ "$pending" -eq 0 ]; then
+              echo "All $total check(s) passed; merging PR #$PR."
+              gh pr merge "$PR" --repo "$REPO" --squash --match-head-commit "$SHA"
+              exit 0
+            fi
+            echo "Waiting: $pending of $total check(s) still running."
+            sleep 30
+          done
+          if [ "$total" -eq 0 ]; then
+            echo "::error::No checks ran on this PR, so there is nothing to gate the merge; leaving it open."
+          else
+            echo "::error::Checks did not finish in time; leaving PR #$PR open."
+          fi
+          exit 1
