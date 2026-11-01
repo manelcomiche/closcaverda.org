@@ -1,0 +1,24 @@
+# Dependabot handles security fixes only. Routine version updates come from Renovate
+# (renovate.json5); `open-pull-requests-limit: 0` turns Dependabot version updates off
+# without affecting security updates. Each ecosystem's fixes arrive as one grouped PR,
+# which .github/workflows/dependabot-automerge.yml merges once every check has passed.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directories: ["/"]
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 0
+    groups:
+      security-fixes:
+        applies-to: security-updates
+        patterns: ["*"]
+  - package-ecosystem: github-actions
+    directories: ["/"]
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 0
+    groups:
+      security-fixes:
+        applies-to: security-updates
+        patterns: ["*"]
