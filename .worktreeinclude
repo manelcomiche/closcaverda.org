@@ -1,0 +1,5 @@
+# Claude Code copia a cada worktree nuevo los ficheros ignorados por git que coincidan aquí
+# (sintaxis .gitignore; un nombre sin barra coincide a cualquier profundidad, p. ej. apps/api/.env).
+.env
+.env.*
+!.env.example
