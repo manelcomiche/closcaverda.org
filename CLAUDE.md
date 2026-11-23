@@ -6,7 +6,7 @@ Web de **Closcaverda** (https://closcaverda.org), proyecto escolar solidario (In
 
 - Next.js 16.4 (App Router) · React 19.3 (versiones fijadas sin `^`) · TypeScript 6 · Tailwind CSS 4 en modo compatibilidad (`@config "../tailwind.config.ts"` en `app/globals.css`) + shadcn/ui
 - Leaflet (mapa en vivo), recharts, framer-motion, `react-intersection-observer`
-- pnpm · ESLint 10 flat config (`eslint-config-next` core-web-vitals + typescript). Sin tests ni backend: todo es estático (SSG con `generateStaticParams`).
+- Node **26.x** (`engines`, que fija también el runtime de Vercel; `.nvmrc` = `26`) · pnpm · ESLint 10 flat config (`eslint-config-next` core-web-vitals + typescript). Sin tests ni backend: todo es estático (SSG con `generateStaticParams`).
 
 ## Comandos
 
@@ -53,7 +53,7 @@ Verificación antes de dar algo por bueno: `pnpm lint && pnpm build`.
 
 ## Despliegue
 
-Vercel, desde `main` (sin variables de entorno). Dominio closcaverda.org.
+Vercel, desde `main` (sin variables de entorno), Node 26.x. Dominio closcaverda.org.
 
 ## Git
 
